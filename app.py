@@ -102,8 +102,29 @@ filtered_locations = filtered_locations[
 ]
 
 # Display results
-st.subheader("Filtered Pokémon")
-st.dataframe(filtered_pokemon.sort_values("Number"))
+st.subheader("Filtered Pokémon and Encounter Locations")
 
-st.subheader("Filtered Encounter Locations")
-st.dataframe(filtered_locations.sort_values(["Area", "Method", "Pokémon"]))
+if filtered_pokemon.empty:
+    st.write("No Pokémon match your filters.")
+else:
+    num_columns = 3
+    chunks = [filtered_pokemon.iloc[i:i + num_columns] for i in range(0, len(filtered_pokemon), num_columns)]
+
+    for chunk in chunks:
+        cols = st.columns(len(chunk))
+        for idx, (i, row) in enumerate(chunk.iterrows()):
+            with cols[idx]:
+                st.markdown(f"### {row['Name']}")
+
+                stat_text = (
+                    f"**HP**: {row['HP']} | **Atk**: {row['Attack']} | **Def**: {row['Defense']}  \
+                    **SpA**: {row['Sp.Attack']} | **SpD**: {row['Sp.Defense']} | **Spe**: {row['Speed']}"
+                )
+                st.markdown(stat_text)
+
+                locs = filtered_locations[
+                    filtered_locations["Pokémon"].str.strip().str.lower() == row["Name"].strip().lower()
+                ]
+
+                for _, loc in locs.iterrows():
+                    st.markdown(f"- `{loc['Area']}` | `{loc['Method']}` | Level {loc['Min Level']}–{loc['Max Level']}")
