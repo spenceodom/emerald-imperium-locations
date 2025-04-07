@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+st.set_page_config(page_title="Emerald Imperium Locations", layout="wide")
+
 # Load datasets
 @st.cache_data
 def load_data():
@@ -33,9 +35,7 @@ def load_data():
 
 pokemon_df, location_df = load_data()
 
-st.set_page_config(page_title="Emerald Imperium Locations", layout="wide")
 st.title("Emerald Imperium Pokémon Locations")
-st.markdown("Search for a Pokémon or a Location to find where and at what levels it can be encountered.")
 
 # Sidebar for stat filters
 st.sidebar.header("Stat Filters")
@@ -94,8 +94,12 @@ filtered_locations = filtered_locations[
     (filtered_locations["Max Level"] <= max_level)
 ]
 
-# Cross-reference Pokémon
-filtered_locations = filtered_locations[filtered_locations["Pokémon"].isin(filtered_pokemon["Name"])]
+# Cross-reference Pokémon (case-insensitive match)
+filtered_locations = filtered_locations[
+    filtered_locations["Pokémon"].str.strip().str.lower().isin(
+        filtered_pokemon["Name"].str.strip().str.lower()
+    )
+]
 
 # Display results
 st.subheader("Filtered Pokémon")
