@@ -1,134 +1,134 @@
 Area,Method,Pokémon,Min Level,Max Level
-Route 101,Grass,wurmple,2,5
-Route 101,Grass,poochyena,2,5
-Route 101,Grass,pidgey,2,5
-Route 101,Grass,blipbug,2,5
-Route 101,Grass,alolan-meowth,2,5
-Route 101,Grass,bunnelby,2,5
-Route 101,Grass,chewtle,2,5
-Route 101,Grass,rolycoly,2,5
-Route 101,Grass,fomantis,2,5
-Route 101,Grass,sewaddle ,2,5
-Route 101,Grass,vulpix,2,5
-Route 101,Grass,growlithe,2,5
-Route 102,Grass,rattata,3,5
-Route 102,Grass,surskit,3,5
-Route 102,Grass,lillipup,3,5
-Route 102,Grass,timburr,3,5
-Route 102,Grass,rookidee,3,5
-Route 102,Grass,phanpy,3,5
-Route 102,Grass,ralts,3,5
-Route 102,Grass,bounsweet,3,5
-Route 102,Grass,poliwag,3,5
-Route 102,Grass,joltik,3,5
-Route 102,Grass,alolan vulpix,3,5
-Route 102,Grass,alolan sandshrew,3,5
-Route 103,Grass,galar zigzagoon,3,5
-Route 103,Grass,wooloo,3,5
-Route 103,Grass,wingull,3,5
-Route 103,Grass,rufflet,3,5
-Route 103,Grass,crabrawler,3,5
-Route 103,Grass,tangela,3,5
-Route 103,Grass,Meowth-galar,3,5
-Route 103,Grass,croagunk,3,5
-Route 103,Grass,oddish,3,5
-Route 103,Grass,snubbull,3,5
-Route 103,Grass,wattrel,3,5
-Route 103,Grass,scatterbug,3,5
-Route 104,Grass,starly,4,6
-Route 104,Grass,lotad,4,6
-Route 104,Grass,teddiursa,4,6
-Route 104,Grass,seedot,4,6
-Route 104,Grass,pidove,4,6
-Route 104,Grass,nickit,4,6
-Route 104,Grass,smoliv,4,6
-Route 104,Grass,gossifleur,4,6
-Route 104,Grass,krabby,4,6
-Route 104,Grass,lechonk,4,6
-Route 104,Grass,panpour,4,6
-Route 104,Grass,panpour,4,6
-Route 110,Grass,ponyta,19,23
-Route 110,Grass,blitzle,19,23
-Route 110,Grass,plusle,19,23
-Route 110,Grass,minun,19,23
-Route 110,Grass,pawmi,19,23
-Route 110,Grass,shinx,19,23
-Route 110,Grass,toxel,19,23
-Route 110,Grass,tynamo,19,23
-Route 110,Grass,electrike,19,23
-Route 110,Grass,fletchling,19,23
-Route 110,Grass,flabebe,19,23
-Route 110,Grass,axew,19,23
-Route 111,Grass,trapinch,30,35
-Route 111,Grass,cacnea,30,35
-Route 111,Grass,rockruff,30,35
-Route 111,Grass,greavard,30,35
-Route 111,Grass,stunfisk,30,35
-Route 111,Grass,golett,30,35
-Route 111,Grass,helioptile,30,35
-Route 111,Grass,klawf,30,35
-Route 111,Grass,baltoy,30,35
-Route 111,Grass,orthworm,30,35
-Route 111,Grass,gible,30,35
-Route 111,Grass,larvitar,30,35
-Route 111,Rocksmash,geodude alola,30,35
-Route 111,Rocksmash,geodude alola,30,35
-Route 111,Rocksmash,roggenrola,30,35
-Route 111,Rocksmash,roggenrola,30,35
-Route 111,Rocksmash,geodude alola,30,35
-Route 112,Grass,numel,22,24
-Route 112,Grass,bellsprout,22,24
-Route 112,Grass,spearow,22,24
-Route 112,Grass,murkrow,22,24
-Route 112,Grass,houndour,22,24
-Route 112,Grass,pawniard,22,24
-Route 112,Grass,onix,22,24
-Route 112,Grass,farfetchd,22,24
-Route 112,Grass,sneasel hisui,22,24
-Route 112,Grass,druddigon,22,24
-Route 112,Grass,deino,22,24
-Route 112,Grass,jangmo-o,22,24
-Route 113,Grass,spinda,23,25
-Route 113,Grass,tarountula,23,25
-Route 113,Grass,drifloon,23,25
-Route 113,Grass,snorunt,23,25
-Route 113,Grass,slakoth,23,25
-Route 113,Grass,stantler,23,25
-Route 113,Grass,venipede,23,25
-Route 113,Grass,cottonee,23,25
-Route 113,Grass,tropius,23,25
-Route 113,Grass,munchlax,23,25
-Route 113,Grass,frigibax,23,25
-Route 113,Grass,goomy,23,25
-Route 114,Grass,swablu,23,25
-Route 114,Grass,zangoose,23,25
-Route 114,Grass,seviper,23,25
-Route 114,Grass,tinkatink,23,25
-Route 114,Grass,sneasel,23,25
-Route 114,Grass,skarmory,23,25
-Route 114,Grass,vanillite,23,25
-Route 114,Grass,sunkern,23,25
-Route 114,Grass,hoppip,23,25
+Route 101,Grass,Wurmple,2,5
+Route 101,Grass,Poochyena,2,5
+Route 101,Grass,Pidgey,2,5
+Route 101,Grass,Blipbug,2,5
+Route 101,Grass,Alolan-Meowth,2,5
+Route 101,Grass,Bunnelby,2,5
+Route 101,Grass,Chewtle,2,5
+Route 101,Grass,Rolycoly,2,5
+Route 101,Grass,Fomantis,2,5
+Route 101,Grass,Sewaddle,2,5
+Route 101,Grass,Vulpix,2,5
+Route 101,Grass,Growlithe,2,5
+Route 102,Grass,Rattata,3,5
+Route 102,Grass,Surskit,3,5
+Route 102,Grass,Lillipup,3,5
+Route 102,Grass,Timburr,3,5
+Route 102,Grass,Rookidee,3,5
+Route 102,Grass,Phanpy,3,5
+Route 102,Grass,Ralts,3,5
+Route 102,Grass,Bounsweet,3,5
+Route 102,Grass,Poliwag,3,5
+Route 102,Grass,Joltik,3,5
+Route 102,Grass,Alolan Vulpix,3,5
+Route 102,Grass,Alolan Sandshrew,3,5
+Route 103,Grass,Galar Zigzagoon,3,5
+Route 103,Grass,Wooloo,3,5
+Route 103,Grass,Wingull,3,5
+Route 103,Grass,Rufflet,3,5
+Route 103,Grass,Crabrawler,3,5
+Route 103,Grass,Tangela,3,5
+Route 103,Grass,Meowth-Galar,3,5
+Route 103,Grass,Croagunk,3,5
+Route 103,Grass,Oddish,3,5
+Route 103,Grass,Snubbull,3,5
+Route 103,Grass,Wattrel,3,5
+Route 103,Grass,Scatterbug,3,5
+Route 104,Grass,Starly,4,6
+Route 104,Grass,Lotad,4,6
+Route 104,Grass,Teddiursa,4,6
+Route 104,Grass,Seedot,4,6
+Route 104,Grass,Pidove,4,6
+Route 104,Grass,Nickit,4,6
+Route 104,Grass,Smoliv,4,6
+Route 104,Grass,Gossifleur,4,6
+Route 104,Grass,Krabby,4,6
+Route 104,Grass,Lechonk,4,6
+Route 104,Grass,Panpour,4,6
+Route 104,Grass,Panpour,4,6
+Route 110,Grass,Ponyta,19,23
+Route 110,Grass,Blitzle,19,23
+Route 110,Grass,Plusle,19,23
+Route 110,Grass,Minun,19,23
+Route 110,Grass,Pawmi,19,23
+Route 110,Grass,Shinx,19,23
+Route 110,Grass,Toxel,19,23
+Route 110,Grass,Tynamo,19,23
+Route 110,Grass,Electrike,19,23
+Route 110,Grass,Fletchling,19,23
+Route 110,Grass,Flabebe,19,23
+Route 110,Grass,Axew,19,23
+Route 111,Grass,Trapinch,30,35
+Route 111,Grass,Cacnea,30,35
+Route 111,Grass,Rockruff,30,35
+Route 111,Grass,Greavard,30,35
+Route 111,Grass,Stunfisk,30,35
+Route 111,Grass,Golett,30,35
+Route 111,Grass,Helioptile,30,35
+Route 111,Grass,Klawf,30,35
+Route 111,Grass,Baltoy,30,35
+Route 111,Grass,Orthworm,30,35
+Route 111,Grass,Gible,30,35
+Route 111,Grass,Larvitar,30,35
+Route 111,Rocksmash,Geodude Alola,30,35
+Route 111,Rocksmash,Geodude Alola,30,35
+Route 111,Rocksmash,Roggenrola,30,35
+Route 111,Rocksmash,Roggenrola,30,35
+Route 111,Rocksmash,Geodude Alola,30,35
+Route 112,Grass,Numel,22,24
+Route 112,Grass,Bellsprout,22,24
+Route 112,Grass,Spearow,22,24
+Route 112,Grass,Murkrow,22,24
+Route 112,Grass,Houndour,22,24
+Route 112,Grass,Pawniard,22,24
+Route 112,Grass,Onix,22,24
+Route 112,Grass,Farfetchd,22,24
+Route 112,Grass,Sneasel Hisui,22,24
+Route 112,Grass,Druddigon,22,24
+Route 112,Grass,Deino,22,24
+Route 112,Grass,Jangmo-O,22,24
+Route 113,Grass,Spinda,23,25
+Route 113,Grass,Tarountula,23,25
+Route 113,Grass,Drifloon,23,25
+Route 113,Grass,Snorunt,23,25
+Route 113,Grass,Slakoth,23,25
+Route 113,Grass,Stantler,23,25
+Route 113,Grass,Venipede,23,25
+Route 113,Grass,Cottonee,23,25
+Route 113,Grass,Tropius,23,25
+Route 113,Grass,Munchlax,23,25
+Route 113,Grass,Frigibax,23,25
+Route 113,Grass,Goomy,23,25
+Route 114,Grass,Swablu,23,25
+Route 114,Grass,Zangoose,23,25
+Route 114,Grass,Seviper,23,25
+Route 114,Grass,Tinkatink,23,25
+Route 114,Grass,Sneasel,23,25
+Route 114,Grass,Skarmory,23,25
+Route 114,Grass,Vanillite,23,25
+Route 114,Grass,Sunkern,23,25
+Route 114,Grass,Hoppip,23,25
 Route 114,Grass,Snover,23,25
-Route 114,Grass,tauros,23,25
-Route 114,Grass,tauros combat,23,25
+Route 114,Grass,Tauros,23,25
+Route 114,Grass,Tauros Combat,23,25
 Route 114,Rocksmash,Corsola,23,25
 Route 114,Rocksmash,Corsola,23,25
-Route 114,Rocksmash,stunfisk-galar,23,25
-Route 114,Rocksmash,stunfisk-galar,23,25
-Route 114,Rocksmash,stunfisk-galar,23,25
-Rustboro City,Grass,shroomish,5,6
-Rustboro City,Grass,shroomish,5,6
-Rustboro City,Grass,shroomish,5,6
-Rustboro City,Grass,pidgey,5,6
-Rustboro City,Grass,pidgey,5,6
-Rustboro City,Grass,pidgey,5,6
-Rustboro City,Grass,meowth,5,6
-Rustboro City,Grass,meowth,5,6
-Rustboro City,Grass,meowth,5,6
-Rustboro City,Grass,meowth,5,6
-Rustboro City,Grass,pansear,5,6
-Rustboro City,Grass,pansear,5,6
+Route 114,Rocksmash,Stunfisk-Galar,23,25
+Route 114,Rocksmash,Stunfisk-Galar,23,25
+Route 114,Rocksmash,Stunfisk-Galar,23,25
+Rustboro City,Grass,Shroomish,5,6
+Rustboro City,Grass,Shroomish,5,6
+Rustboro City,Grass,Shroomish,5,6
+Rustboro City,Grass,Pidgey,5,6
+Rustboro City,Grass,Pidgey,5,6
+Rustboro City,Grass,Pidgey,5,6
+Rustboro City,Grass,Meowth,5,6
+Rustboro City,Grass,Meowth,5,6
+Rustboro City,Grass,Meowth,5,6
+Rustboro City,Grass,Meowth,5,6
+Rustboro City,Grass,Pansear,5,6
+Rustboro City,Grass,Pansear,5,6
 Route 115,Grass,Hatenna,28,33
 Route 115,Grass,Impidimp,28,33
 Route 115,Grass,Dhelmise,28,33
@@ -141,36 +141,36 @@ Route 115,Grass,Carnivine,28,33
 Route 115,Grass,Burmy,28,33
 Route 115,Grass,Nihilego,28,33
 Route 115,Grass,Buzzwole,28,33
-Route 116,Grass,petilil,6,8
-Route 116,Grass,skorupi,6,8
-Route 116,Grass,nidoranM,6,8
-Route 116,Grass,nidoranF,6,8
-Route 116,Grass,magby,6,8
-Route 116,Grass,bidoof,6,8
-Route 116,Grass,nincada,6,8
-Route 116,Grass,skitty,6,8
-Route 116,Grass,vullaby,6,8
-Route 116,Grass,budew,6,8
-Route 116,Grass,abra,6,8
-Route 116,Grass,drowzee,6,8
-Route 117,Grass,mudbray,20,24
-Route 117,Grass,silicobra,20,24
-Route 117,Grass,machop,20,24
-Route 117,Grass,pinsir,20,24
-Route 117,Grass,heracross,20,24
-Route 117,Grass,scyther,20,24
-Route 117,Grass,cubone,20,24
-Route 117,Grass,yamask-galar,20,24
-Route 117,Grass,volbeat,20,24
-Route 117,Grass,illumise,20,24
-Route 117,Grass,snom,20,24
-Route 117,Grass,larvesta,20,24
+Route 116,Grass,Petilil,6,8
+Route 116,Grass,Skorupi,6,8
+Route 116,Grass,Nidoranm,6,8
+Route 116,Grass,Nidoranf,6,8
+Route 116,Grass,Magby,6,8
+Route 116,Grass,Bidoof,6,8
+Route 116,Grass,Nincada,6,8
+Route 116,Grass,Skitty,6,8
+Route 116,Grass,Vullaby,6,8
+Route 116,Grass,Budew,6,8
+Route 116,Grass,Abra,6,8
+Route 116,Grass,Drowzee,6,8
+Route 117,Grass,Mudbray,20,24
+Route 117,Grass,Silicobra,20,24
+Route 117,Grass,Machop,20,24
+Route 117,Grass,Pinsir,20,24
+Route 117,Grass,Heracross,20,24
+Route 117,Grass,Scyther,20,24
+Route 117,Grass,Cubone,20,24
+Route 117,Grass,Yamask-Galar,20,24
+Route 117,Grass,Volbeat,20,24
+Route 117,Grass,Illumise,20,24
+Route 117,Grass,Snom,20,24
+Route 117,Grass,Larvesta,20,24
 Route 118,Grass,Sentret,25,30
 Route 118,Grass,Aipom,25,30
 Route 118,Grass,Gulpin,25,30
 Route 118,Grass,Maractus,25,30
 Route 118,Grass,Deerling,25,30
-Route 118,Grass,spinarak,25,30
+Route 118,Grass,Spinarak,25,30
 Route 118,Grass,Hawlucha,25,30
 Route 118,Grass,Pikipek,25,30
 Route 118,Grass,Cufant,25,30
@@ -178,306 +178,306 @@ Route 118,Grass,Miltank,25,30
 Route 118,Grass,Gimmighoul,25,30
 Route 118,Grass,Falinks,25,30
 Route 119,Grass,Capsakid,30,35
-Route 119,Grass,growlithe-hisui,30,35
+Route 119,Grass,Growlithe-Hisui,30,35
 Route 119,Grass,Ledyba,30,35
-Route 119,Grass,durant,30,35
+Route 119,Grass,Durant,30,35
 Route 119,Grass,Combee,30,35
 Route 119,Grass,Stonjourner,30,35
 Route 119,Grass,Cutiefly,30,35
 Route 119,Grass,Nymble,30,35
-Route 119,Grass,Indeedee-female,30,35
-Route 119,Grass,Indeedee-male,30,35
+Route 119,Grass,Indeedee-Female,30,35
+Route 119,Grass,Indeedee-Male,30,35
 Route 119,Grass,Kartana,30,35
 Route 119,Grass,Pheromosa,30,35
-Route 120,Grass,growlithe,35,40
-Route 120,Grass,skiddo,35,40
-Route 120,Grass,maschiff,35,40
-Route 120,Grass,buneary,35,40
-Route 120,Grass,absol,35,40
-Route 120,Grass,cherubi,35,40
-Route 120,Grass,milcery,35,40
-Route 120,Grass,glimmet,35,40
-Route 120,Grass,rellor,35,40
-Route 120,Grass,squakabilly,35,40
-Route 120,Grass,glameow,35,40
-Route 120,Grass,poltchageist,35,40
+Route 120,Grass,Growlithe,35,40
+Route 120,Grass,Skiddo,35,40
+Route 120,Grass,Maschiff,35,40
+Route 120,Grass,Buneary,35,40
+Route 120,Grass,Absol,35,40
+Route 120,Grass,Cherubi,35,40
+Route 120,Grass,Milcery,35,40
+Route 120,Grass,Glimmet,35,40
+Route 120,Grass,Rellor,35,40
+Route 120,Grass,Squakabilly,35,40
+Route 120,Grass,Glameow,35,40
+Route 120,Grass,Poltchageist,35,40
 Route 121,Grass,Tandemaus,38,42
 Route 121,Grass,Shroodle,38,42
 Route 121,Grass,Bramblin,38,42
 Route 121,Grass,Flittle,38,42
-Route 121,Grass,weezing,38,42
-Route 121,Grass,flaafy,38,42
-Route 121,Grass,pumpkaboo,38,42
-Route 121,Grass,klang,38,42
-Route 121,Grass,tauros,38,42
-Route 121,Grass,krokorok,38,42
+Route 121,Grass,Weezing,38,42
+Route 121,Grass,Flaafy,38,42
+Route 121,Grass,Pumpkaboo,38,42
+Route 121,Grass,Klang,38,42
+Route 121,Grass,Tauros,38,42
+Route 121,Grass,Krokorok,38,42
 Route 121,Grass,Blacephalon,38,42
 Route 121,Grass,Xurkitree,38,42
-Route 122,Grass,sandshrew-alola,40,42
-Route 122,Grass,dhelmise,40,42
-Route 122,Grass,gogoat,40,42
-Route 122,Grass,banette,40,42
-Route 122,Grass,persian-alola,40,42
-Route 122,Grass,persian,40,42
-Route 122,Grass,hypno,40,42
-Route 122,Grass,sigilyph,40,42
-Route 122,Grass,cinccino,40,42
-Route 122,Grass,overqwil,40,42
-Route 122,Grass,zweilous,40,42
-Route 122,Grass,zweilous,40,42
-Route 123,Grass,toedscruel,40,42
-Route 123,Grass,pangoro,40,42
-Route 123,Grass,turtonator,40,42
-Route 123,Grass,parasect,40,42
-Route 123,Grass,arboliva,40,42
-Route 123,Grass,tangrowth,40,42
-Route 123,Grass,roselia,40,42
-Route 123,Grass,druddigon,40,42
-Route 123,Grass,ribombee,40,42
-Route 123,Grass,sliggoo-hisui,40,42
-Route 123,Grass,sliggoo,40,42
-Route 123,Grass,iron moth,40,42
-Route 124,Grass,palossand,42,47
-Route 124,Grass,fidough,42,47
-Route 124,Grass,hakamo-o,42,47
-Route 124,Grass,dragonair,42,47
-Route 124,Grass,sunflora,42,47
-Route 124,Grass,ninetales,42,47
-Route 124,Grass,grapploct,42,47
-Route 124,Grass,talonflame,42,47
-Route 124,Grass,eelektross,42,47
-Route 124,Grass,drampa,42,47
-Route 124,Grass,sandy shocks,42,47
-Route 124,Grass,slither wing,42,47
-Route 107,Grass,scyther,30,40
-Route 107,Grass,heracross,30,40
-Route 107,Grass,pinsir,30,40
-Route 107,Grass,cetitan,30,40
-Route 107,Grass,skarmory,30,40
-Route 107,Grass,stunfisk,30,40
-Route 107,Grass,stunfisk-galar,30,40
-Route 107,Grass,spiritomb,30,40
-Route 107,Grass,lickitung,30,40
-Route 107,Grass,floette,30,40
-Route 107,Grass,dragonair,30,40
-Route 107,Grass,gabite,30,40
-Route 109,Grass,grafaiai,30,40
-Route 109,Grass,cherrim,30,40
-Route 109,Grass,skrelp,30,40
-Route 109,Grass,hippowdon,30,40
-Route 109,Grass,zoroark,30,40
-Route 109,Grass,zoroark-hisui,30,40
-Route 109,Grass,trevenant,30,40
-Route 109,Grass,tinkattuff,30,40
-Route 109,Grass,ursaring,30,40
-Route 109,Grass,gliscor,30,40
-Route 109,Grass,shelgon,30,40
-Route 109,Grass,shelgon,30,40
-Route 127,Grass,drapion,42,47
-Route 127,Grass,gardevoir,42,47
-Route 127,Grass,gallade,42,47
-Route 127,Grass,jigglypuff,42,47
-Route 127,Grass,electabuzz,42,47
-Route 127,Grass,wobuffet,42,47
-Route 127,Grass,ferrothorn,42,47
-Route 127,Grass,araquanid,42,47
-Route 127,Grass,golisopod,42,47
-Route 127,Grass,jumpluff,42,47
-Route 127,Grass,iron valiant,42,47
-Route 127,Grass,scream tail,42,47
-Route 128,Grass,pangoro,45,50
-Route 128,Grass,flamigo,45,50
-Route 128,Grass,cyclizar,45,50
-Route 128,Grass,doublade,45,50
-Route 128,Grass,noivern,45,50
-Route 128,Grass,vileplume,45,50
-Route 128,Grass,bellosom,45,50
-Route 128,Grass,coalossal,45,50
-Route 128,Grass,drifblim,45,50
-Route 128,Grass,haxorus,45,50
-Route 128,Grass,nihilego,45,50
-Route 128,Grass,nihilego,45,50
-Route 129,Grass,breloom,45,50
-Route 129,Grass,kilowattrel,45,50
-Route 129,Grass,alakazam,45,50
-Route 129,Grass,gothitelle,45,50
-Route 129,Grass,dugtrio-alola,45,50
-Route 129,Grass,bewear,45,50
-Route 129,Grass,girafarig,45,50
-Route 129,Grass,mandibuzz,45,50
-Route 129,Grass,braviary,45,50
-Route 129,Grass,braviary-hisui,45,50
-Route 129,Grass,luxray,45,50
-Route 129,Grass,luxray,45,50
-Evergrande City,Grass,electivire,60,65
-Evergrande City,Grass,magmortar,60,65
-Evergrande City,Grass,lokix,60,65
-Evergrande City,Grass,lycanroc,60,65
-Evergrande City,Grass,avalugg,60,65
-Evergrande City,Grass,avalugg-hisui,60,65
-Evergrande City,Grass,bisharp,60,65
-Evergrande City,Grass,excadrill,60,65
-Evergrande City,Grass,bronzong,60,65
-Evergrande City,Grass,dusknoir,60,65
-Evergrande City,Grass,magearna,60,65
-Petalburg Woods,Dungeon,caterpie,5,6
-Petalburg Woods,Dungeon,taillow,5,6
-Petalburg Woods,Dungeon,zigzagoon,5,6
-Petalburg Woods,Dungeon,exeggcute,5,6
-Petalburg Woods,Dungeon,hoothoot,5,6
-Petalburg Woods,Dungeon,weedle,5,6
-Petalburg Woods,Dungeon,skwovet,5,6
-Petalburg Woods,Dungeon,swinub,5,6
-Petalburg Woods,Dungeon,purrloin,5,6
-Petalburg Woods,Dungeon,toedscool,5,6
-Petalburg Woods,Dungeon,pansage,5,6
-Petalburg Woods,Dungeon,pansage,5,6
-Rusturf Tunnel,Cave,whismur,6,8
-Rusturf Tunnel,Cave,geodude,6,8
-Rusturf Tunnel,Cave,gastly,6,8
-Rusturf Tunnel,Cave,dwebble,6,8
-Rusturf Tunnel,Cave,bronzor,6,8
-Rusturf Tunnel,Cave,ekans,6,8
-Rusturf Tunnel,Cave,sandygast,6,8
-Rusturf Tunnel,Cave,sandshrew,6,8
-Rusturf Tunnel,Cave,mareep,6,8
-Rusturf Tunnel,Cave,magnemite,6,8
-Rusturf Tunnel,Cave,nacli,6,8
-Rusturf Tunnel,Cave,duskull,6,8
-Granite Cave 1F,Cave,diglett,12,17
-Granite Cave 1F,Cave,makuhita,12,17
-Granite Cave 1F,Cave,patrat,12,17
-Granite Cave 1F,Cave,dunsparce,12,17
-Granite Cave 1F,Cave,yungoos,12,17
-Granite Cave 1F,Cave,grubbin,12,17
-Granite Cave 1F,Cave,mienfoo,12,17
-Granite Cave 1F,Cave,koffing,12,17
-Granite Cave 1F,Cave,jigglypuff,12,17
-Granite Cave 1F,Cave,venonat,12,17
-Granite Cave 1F,Cave,hisuian zorua,12,17
-Granite Cave 1F,Cave,hisuian zorua,12,17
-Granite Cave B1F,Cave,scraggy,12,17
-Granite Cave B1F,Cave,aron,12,17
-Granite Cave B1F,Cave,gligar,12,17
-Granite Cave B1F,Cave,misdreavus,12,17
-Granite Cave B1F,Cave,woobat,12,17
-Granite Cave B1F,Cave,sandile,12,17
-Granite Cave B1F,Cave,farfetchd galar,12,17
-Granite Cave B1F,Cave,meditite,12,17
-Granite Cave B1F,Cave,yamask,12,17
-Granite Cave B1F,Cave,diglett alolan,12,17
-Granite Cave B1F,Cave,sableye,12,17
-Granite Cave B1F,Cave,shuppet,12,17
-Granite Cave B2F,Cave,mankey,12,17
-Granite Cave B2F,Cave,natu,12,17
-Granite Cave B2F,Cave,mawile,12,17
-Granite Cave B2F,Cave,zubat,12,17
-Granite Cave B2F,Cave,kricketot,12,17
-Granite Cave B2F,Cave,clefairy,12,17
-Granite Cave B2F,Cave,drilbur,12,17
-Granite Cave B2F,Cave,emolga,12,17
-Granite Cave B2F,Cave,hippopotas,12,17
-Granite Cave B2F,Cave,alolan rattata,12,17
-Granite Cave B2F,Cave,zorua,12,17
-Granite Cave B2F,Cave,zorua,12,17
-Granite Cave Steven,Cave,pikachu,12,17
-Granite Cave Steven,Cave,sawk,12,17
-Granite Cave Steven,Cave,throh,12,17
-Granite Cave Steven,Cave,stufful,12,17
-Granite Cave Steven,Cave,spoink,12,17
-Granite Cave Steven,Cave,munna,12,17
-Granite Cave Steven,Cave,swirlix,12,17
-Granite Cave Steven,Cave,morelull,12,17
-Granite Cave Steven,Cave,smoochum,12,17
-Granite Cave Steven,Cave,paras,12,17
-Granite Cave Steven,Cave,beldum,12,17
-Granite Cave Steven,Cave,beldum,12,17
-Fiery Path,Cave,slugma,22,24
-Fiery Path,Cave,darumaka,22,24
-Fiery Path,Cave,galarian ponyta,22,24
-Fiery Path,Cave,sizzlipede,22,24
-Fiery Path,Cave,salandit,22,24
-Fiery Path,Cave,litleo,22,24
-Fiery Path,Cave,tauros blaze,22,24
-Fiery Path,Cave,stunky,22,24
-Fiery Path,Cave,torkoal,22,24
-Fiery Path,Cave,hisuian growlithe,22,24
-Fiery Path,Cave,bagon,22,24
-Fiery Path,Cave,dreepy,22,24
-Meteor Falls 1F-1R,Cave,solrock,25,27
-Meteor Falls 1F-1R,Cave,lunatone,25,27
-Meteor Falls 1F-1R,Cave,pineco,25,27
-Meteor Falls 1F-1R,Cave,shuckle,25,27
-Meteor Falls 1F-1R,Cave,cetoddle,25,27
-Meteor Falls 1F-1R,Cave,pancham,25,27
-Meteor Falls 1F-1R,Cave,gothita,25,27
-Meteor Falls 1F-1R,Cave,morpeko,25,27
-Meteor Falls 1F-1R,Cave,eiscue,25,27
-Meteor Falls 1F-1R,Cave,minior,25,27
-Meteor Falls 1F-1R,Cave,cyclizar,25,27
-Meteor Falls 1F-1R,Cave,varoom,25,27
-Meteor Falls 1F-2R,Cave,cyclizar,25,27
-Meteor Falls 1F-2R,Cave,aerodactyl,25,27
-Meteor Falls 1F-2R,Cave,bombirdier,25,27
-Meteor Falls 1F-2R,Cave,aromatisse,25,27
-Meteor Falls 1F-2R,Cave,carbink,25,27
-Meteor Falls 1F-2R,Cave,absol,25,27
-Meteor Falls 1F-2R,Cave,rhydon,25,27
-Meteor Falls 1F-2R,Cave,lycanroc,25,27
-Meteor Falls 1F-2R,Cave,orthworm,25,27
-Meteor Falls 1F-2R,Cave,falinks,25,27
-Meteor Falls 1F-2R,Cave,jirachi,25,27
-Meteor Falls 1F-2R,Cave,jirachi,25,27
-Meteor Falls B1F-1R,Cave,cyclizar,50,55
-Meteor Falls B1F-1R,Cave,aerodactyl,50,55
-Meteor Falls B1F-1R,Cave,bombirdier,50,55
-Meteor Falls B1F-1R,Cave,aromatisse,50,55
-Meteor Falls B1F-1R,Cave,carbink,50,55
-Meteor Falls B1F-1R,Cave,absol,50,55
-Meteor Falls B1F-1R,Cave,rhydon,50,55
-Meteor Falls B1F-1R,Cave,lycanroc,50,55
-Meteor Falls B1F-1R,Cave,orthworm,50,55
-Meteor Falls B1F-1R,Cave,falinks,50,55
-Meteor Falls B1F-1R,Cave,jirachi,50,55
-Meteor Falls B1F-1R,Cave,jirachi,50,55
-Meteor Falls B1F-2R,Cave,dragonair,50,55
-Meteor Falls B1F-2R,Cave,pupitar,50,55
-Meteor Falls B1F-2R,Cave,shelgon,50,55
-Meteor Falls B1F-2R,Cave,gabite,50,55
-Meteor Falls B1F-2R,Cave,sliggoo-hisui,50,55
-Meteor Falls B1F-2R,Cave,sliggoo,50,55
-Meteor Falls B1F-2R,Cave,zweilous,50,55
-Meteor Falls B1F-2R,Cave,hakamo-o,50,55
-Meteor Falls B1F-2R,Cave,drakloak,50,55
-Meteor Falls B1F-2R,Cave,arctibax,50,55
-Meteor Falls B1F-2R,Cave,jirachi,50,55
-Meteor Falls B1F-2R,Cave,jirachi,50,55
-Jagged Pass,Cave,doduo,25,27
-Jagged Pass,Cave,applin,25,27
-Jagged Pass,Cave,spiritomb,25,27
-Jagged Pass,Cave,electabuzz,25,27
-Jagged Pass,Cave,audino,25,27
-Jagged Pass,Cave,darumaka galar,25,27
-Jagged Pass,Cave,solosis,25,27
-Jagged Pass,Cave,cubchoo,25,27
-Jagged Pass,Cave,honedge,25,27
+Route 122,Grass,Sandshrew-Alola,40,42
+Route 122,Grass,Dhelmise,40,42
+Route 122,Grass,Gogoat,40,42
+Route 122,Grass,Banette,40,42
+Route 122,Grass,Persian-Alola,40,42
+Route 122,Grass,Persian,40,42
+Route 122,Grass,Hypno,40,42
+Route 122,Grass,Sigilyph,40,42
+Route 122,Grass,Cinccino,40,42
+Route 122,Grass,Overqwil,40,42
+Route 122,Grass,Zweilous,40,42
+Route 122,Grass,Zweilous,40,42
+Route 123,Grass,Toedscruel,40,42
+Route 123,Grass,Pangoro,40,42
+Route 123,Grass,Turtonator,40,42
+Route 123,Grass,Parasect,40,42
+Route 123,Grass,Arboliva,40,42
+Route 123,Grass,Tangrowth,40,42
+Route 123,Grass,Roselia,40,42
+Route 123,Grass,Druddigon,40,42
+Route 123,Grass,Ribombee,40,42
+Route 123,Grass,Sliggoo-Hisui,40,42
+Route 123,Grass,Sliggoo,40,42
+Route 123,Grass,Iron Moth,40,42
+Route 124,Grass,Palossand,42,47
+Route 124,Grass,Fidough,42,47
+Route 124,Grass,Hakamo-O,42,47
+Route 124,Grass,Dragonair,42,47
+Route 124,Grass,Sunflora,42,47
+Route 124,Grass,Ninetales,42,47
+Route 124,Grass,Grapploct,42,47
+Route 124,Grass,Talonflame,42,47
+Route 124,Grass,Eelektross,42,47
+Route 124,Grass,Drampa,42,47
+Route 124,Grass,Sandy Shocks,42,47
+Route 124,Grass,Slither Wing,42,47
+Route 107,Grass,Scyther,30,40
+Route 107,Grass,Heracross,30,40
+Route 107,Grass,Pinsir,30,40
+Route 107,Grass,Cetitan,30,40
+Route 107,Grass,Skarmory,30,40
+Route 107,Grass,Stunfisk,30,40
+Route 107,Grass,Stunfisk-Galar,30,40
+Route 107,Grass,Spiritomb,30,40
+Route 107,Grass,Lickitung,30,40
+Route 107,Grass,Floette,30,40
+Route 107,Grass,Dragonair,30,40
+Route 107,Grass,Gabite,30,40
+Route 109,Grass,Grafaiai,30,40
+Route 109,Grass,Cherrim,30,40
+Route 109,Grass,Skrelp,30,40
+Route 109,Grass,Hippowdon,30,40
+Route 109,Grass,Zoroark,30,40
+Route 109,Grass,Zoroark-Hisui,30,40
+Route 109,Grass,Trevenant,30,40
+Route 109,Grass,Tinkattuff,30,40
+Route 109,Grass,Ursaring,30,40
+Route 109,Grass,Gliscor,30,40
+Route 109,Grass,Shelgon,30,40
+Route 109,Grass,Shelgon,30,40
+Route 127,Grass,Drapion,42,47
+Route 127,Grass,Gardevoir,42,47
+Route 127,Grass,Gallade,42,47
+Route 127,Grass,Jigglypuff,42,47
+Route 127,Grass,Electabuzz,42,47
+Route 127,Grass,Wobuffet,42,47
+Route 127,Grass,Ferrothorn,42,47
+Route 127,Grass,Araquanid,42,47
+Route 127,Grass,Golisopod,42,47
+Route 127,Grass,Jumpluff,42,47
+Route 127,Grass,Iron Valiant,42,47
+Route 127,Grass,Scream Tail,42,47
+Route 128,Grass,Pangoro,45,50
+Route 128,Grass,Flamigo,45,50
+Route 128,Grass,Cyclizar,45,50
+Route 128,Grass,Doublade,45,50
+Route 128,Grass,Noivern,45,50
+Route 128,Grass,Vileplume,45,50
+Route 128,Grass,Bellosom,45,50
+Route 128,Grass,Coalossal,45,50
+Route 128,Grass,Drifblim,45,50
+Route 128,Grass,Haxorus,45,50
+Route 128,Grass,Nihilego,45,50
+Route 128,Grass,Nihilego,45,50
+Route 129,Grass,Breloom,45,50
+Route 129,Grass,Kilowattrel,45,50
+Route 129,Grass,Alakazam,45,50
+Route 129,Grass,Gothitelle,45,50
+Route 129,Grass,Dugtrio-Alola,45,50
+Route 129,Grass,Bewear,45,50
+Route 129,Grass,Girafarig,45,50
+Route 129,Grass,Mandibuzz,45,50
+Route 129,Grass,Braviary,45,50
+Route 129,Grass,Braviary-Hisui,45,50
+Route 129,Grass,Luxray,45,50
+Route 129,Grass,Luxray,45,50
+Evergrande City,Grass,Electivire,60,65
+Evergrande City,Grass,Magmortar,60,65
+Evergrande City,Grass,Lokix,60,65
+Evergrande City,Grass,Lycanroc,60,65
+Evergrande City,Grass,Avalugg,60,65
+Evergrande City,Grass,Avalugg-Hisui,60,65
+Evergrande City,Grass,Bisharp,60,65
+Evergrande City,Grass,Excadrill,60,65
+Evergrande City,Grass,Bronzong,60,65
+Evergrande City,Grass,Dusknoir,60,65
+Evergrande City,Grass,Magearna,60,65
+Petalburg Woods,Dungeon,Caterpie,5,6
+Petalburg Woods,Dungeon,Taillow,5,6
+Petalburg Woods,Dungeon,Zigzagoon,5,6
+Petalburg Woods,Dungeon,Exeggcute,5,6
+Petalburg Woods,Dungeon,Hoothoot,5,6
+Petalburg Woods,Dungeon,Weedle,5,6
+Petalburg Woods,Dungeon,Skwovet,5,6
+Petalburg Woods,Dungeon,Swinub,5,6
+Petalburg Woods,Dungeon,Purrloin,5,6
+Petalburg Woods,Dungeon,Toedscool,5,6
+Petalburg Woods,Dungeon,Pansage,5,6
+Petalburg Woods,Dungeon,Pansage,5,6
+Rusturf Tunnel,Cave,Whismur,6,8
+Rusturf Tunnel,Cave,Geodude,6,8
+Rusturf Tunnel,Cave,Gastly,6,8
+Rusturf Tunnel,Cave,Dwebble,6,8
+Rusturf Tunnel,Cave,Bronzor,6,8
+Rusturf Tunnel,Cave,Ekans,6,8
+Rusturf Tunnel,Cave,Sandygast,6,8
+Rusturf Tunnel,Cave,Sandshrew,6,8
+Rusturf Tunnel,Cave,Mareep,6,8
+Rusturf Tunnel,Cave,Magnemite,6,8
+Rusturf Tunnel,Cave,Nacli,6,8
+Rusturf Tunnel,Cave,Duskull,6,8
+Granite Cave 1F,Cave,Diglett,12,17
+Granite Cave 1F,Cave,Makuhita,12,17
+Granite Cave 1F,Cave,Patrat,12,17
+Granite Cave 1F,Cave,Dunsparce,12,17
+Granite Cave 1F,Cave,Yungoos,12,17
+Granite Cave 1F,Cave,Grubbin,12,17
+Granite Cave 1F,Cave,Mienfoo,12,17
+Granite Cave 1F,Cave,Koffing,12,17
+Granite Cave 1F,Cave,Jigglypuff,12,17
+Granite Cave 1F,Cave,Venonat,12,17
+Granite Cave 1F,Cave,Hisuian Zorua,12,17
+Granite Cave 1F,Cave,Hisuian Zorua,12,17
+Granite Cave B1F,Cave,Scraggy,12,17
+Granite Cave B1F,Cave,Aron,12,17
+Granite Cave B1F,Cave,Gligar,12,17
+Granite Cave B1F,Cave,Misdreavus,12,17
+Granite Cave B1F,Cave,Woobat,12,17
+Granite Cave B1F,Cave,Sandile,12,17
+Granite Cave B1F,Cave,Farfetchd Galar,12,17
+Granite Cave B1F,Cave,Meditite,12,17
+Granite Cave B1F,Cave,Yamask,12,17
+Granite Cave B1F,Cave,Diglett Alolan,12,17
+Granite Cave B1F,Cave,Sableye,12,17
+Granite Cave B1F,Cave,Shuppet,12,17
+Granite Cave B2F,Cave,Mankey,12,17
+Granite Cave B2F,Cave,Natu,12,17
+Granite Cave B2F,Cave,Mawile,12,17
+Granite Cave B2F,Cave,Zubat,12,17
+Granite Cave B2F,Cave,Kricketot,12,17
+Granite Cave B2F,Cave,Clefairy,12,17
+Granite Cave B2F,Cave,Drilbur,12,17
+Granite Cave B2F,Cave,Emolga,12,17
+Granite Cave B2F,Cave,Hippopotas,12,17
+Granite Cave B2F,Cave,Alolan Rattata,12,17
+Granite Cave B2F,Cave,Zorua,12,17
+Granite Cave B2F,Cave,Zorua,12,17
+Granite Cave Steven,Cave,Pikachu,12,17
+Granite Cave Steven,Cave,Sawk,12,17
+Granite Cave Steven,Cave,Throh,12,17
+Granite Cave Steven,Cave,Stufful,12,17
+Granite Cave Steven,Cave,Spoink,12,17
+Granite Cave Steven,Cave,Munna,12,17
+Granite Cave Steven,Cave,Swirlix,12,17
+Granite Cave Steven,Cave,Morelull,12,17
+Granite Cave Steven,Cave,Smoochum,12,17
+Granite Cave Steven,Cave,Paras,12,17
+Granite Cave Steven,Cave,Beldum,12,17
+Granite Cave Steven,Cave,Beldum,12,17
+Fiery Path,Cave,Slugma,22,24
+Fiery Path,Cave,Darumaka,22,24
+Fiery Path,Cave,Galarian Ponyta,22,24
+Fiery Path,Cave,Sizzlipede,22,24
+Fiery Path,Cave,Salandit,22,24
+Fiery Path,Cave,Litleo,22,24
+Fiery Path,Cave,Tauros Blaze,22,24
+Fiery Path,Cave,Stunky,22,24
+Fiery Path,Cave,Torkoal,22,24
+Fiery Path,Cave,Hisuian Growlithe,22,24
+Fiery Path,Cave,Bagon,22,24
+Fiery Path,Cave,Dreepy,22,24
+Meteor Falls 1F-1R,Cave,Solrock,25,27
+Meteor Falls 1F-1R,Cave,Lunatone,25,27
+Meteor Falls 1F-1R,Cave,Pineco,25,27
+Meteor Falls 1F-1R,Cave,Shuckle,25,27
+Meteor Falls 1F-1R,Cave,Cetoddle,25,27
+Meteor Falls 1F-1R,Cave,Pancham,25,27
+Meteor Falls 1F-1R,Cave,Gothita,25,27
+Meteor Falls 1F-1R,Cave,Morpeko,25,27
+Meteor Falls 1F-1R,Cave,Eiscue,25,27
+Meteor Falls 1F-1R,Cave,Minior,25,27
+Meteor Falls 1F-1R,Cave,Cyclizar,25,27
+Meteor Falls 1F-1R,Cave,Varoom,25,27
+Meteor Falls 1F-2R,Cave,Cyclizar,25,27
+Meteor Falls 1F-2R,Cave,Aerodactyl,25,27
+Meteor Falls 1F-2R,Cave,Bombirdier,25,27
+Meteor Falls 1F-2R,Cave,Aromatisse,25,27
+Meteor Falls 1F-2R,Cave,Carbink,25,27
+Meteor Falls 1F-2R,Cave,Absol,25,27
+Meteor Falls 1F-2R,Cave,Rhydon,25,27
+Meteor Falls 1F-2R,Cave,Lycanroc,25,27
+Meteor Falls 1F-2R,Cave,Orthworm,25,27
+Meteor Falls 1F-2R,Cave,Falinks,25,27
+Meteor Falls 1F-2R,Cave,Jirachi,25,27
+Meteor Falls 1F-2R,Cave,Jirachi,25,27
+Meteor Falls B1F-1R,Cave,Cyclizar,50,55
+Meteor Falls B1F-1R,Cave,Aerodactyl,50,55
+Meteor Falls B1F-1R,Cave,Bombirdier,50,55
+Meteor Falls B1F-1R,Cave,Aromatisse,50,55
+Meteor Falls B1F-1R,Cave,Carbink,50,55
+Meteor Falls B1F-1R,Cave,Absol,50,55
+Meteor Falls B1F-1R,Cave,Rhydon,50,55
+Meteor Falls B1F-1R,Cave,Lycanroc,50,55
+Meteor Falls B1F-1R,Cave,Orthworm,50,55
+Meteor Falls B1F-1R,Cave,Falinks,50,55
+Meteor Falls B1F-1R,Cave,Jirachi,50,55
+Meteor Falls B1F-1R,Cave,Jirachi,50,55
+Meteor Falls B1F-2R,Cave,Dragonair,50,55
+Meteor Falls B1F-2R,Cave,Pupitar,50,55
+Meteor Falls B1F-2R,Cave,Shelgon,50,55
+Meteor Falls B1F-2R,Cave,Gabite,50,55
+Meteor Falls B1F-2R,Cave,Sliggoo-Hisui,50,55
+Meteor Falls B1F-2R,Cave,Sliggoo,50,55
+Meteor Falls B1F-2R,Cave,Zweilous,50,55
+Meteor Falls B1F-2R,Cave,Hakamo-O,50,55
+Meteor Falls B1F-2R,Cave,Drakloak,50,55
+Meteor Falls B1F-2R,Cave,Arctibax,50,55
+Meteor Falls B1F-2R,Cave,Jirachi,50,55
+Meteor Falls B1F-2R,Cave,Jirachi,50,55
+Jagged Pass,Cave,Doduo,25,27
+Jagged Pass,Cave,Applin,25,27
+Jagged Pass,Cave,Spiritomb,25,27
+Jagged Pass,Cave,Electabuzz,25,27
+Jagged Pass,Cave,Audino,25,27
+Jagged Pass,Cave,Darumaka Galar,25,27
+Jagged Pass,Cave,Solosis,25,27
+Jagged Pass,Cave,Cubchoo,25,27
+Jagged Pass,Cave,Honedge,25,27
 Jagged Pass,Cave,Bonsly,25,27
-Jagged Pass,Cave,ferroseed,25,27
-Jagged Pass,Cave,heatmor,25,27
-Mirage Tower 1F,Dungeon,meowth,30,35
+Jagged Pass,Cave,Ferroseed,25,27
+Jagged Pass,Cave,Heatmor,25,27
+Mirage Tower 1F,Dungeon,Meowth,30,35
 Mirage Tower 1F,Dungeon,Sigilyph,30,35
 Mirage Tower 1F,Dungeon,Chingling,30,35
-Mirage Tower 1F,Dungeon,girafarig,30,35
-Mirage Tower 1F,Dungeon,stunfisk-galar,30,35
+Mirage Tower 1F,Dungeon,Girafarig,30,35
+Mirage Tower 1F,Dungeon,Stunfisk-Galar,30,35
 Mirage Tower 1F,Dungeon,Spritzee,30,35
 Mirage Tower 1F,Dungeon,Carbink,30,35
-Mirage Tower 1F,Dungeon,ditto,30,35
-Mirage Tower 1F,Dungeon,iron bundle,30,35
-Mirage Tower 1F,Dungeon,brute bonnet,30,35
-Mirage Tower 1F,Dungeon,iron treads,30,35
-Mirage Tower 2F,Dungeon,great tusk,30,35
-Mirage Tower 2F,Dungeon,lickitung,30,35
-Mirage Tower 2F,Dungeon,qwilfish-hisuian,30,35
+Mirage Tower 1F,Dungeon,Ditto,30,35
+Mirage Tower 1F,Dungeon,Iron Bundle,30,35
+Mirage Tower 1F,Dungeon,Brute Bonnet,30,35
+Mirage Tower 1F,Dungeon,Iron Treads,30,35
+Mirage Tower 2F,Dungeon,Great Tusk,30,35
+Mirage Tower 2F,Dungeon,Lickitung,30,35
+Mirage Tower 2F,Dungeon,Qwilfish-Hisuian,30,35
 Mirage Tower 2F,Dungeon,Absol,30,35
 Mirage Tower 2F,Dungeon,Elgyem,30,35
 Mirage Tower 2F,Dungeon,Furfrou,30,35
@@ -485,11 +485,11 @@ Mirage Tower 2F,Dungeon,Pumpkaboo,30,35
 Mirage Tower 2F,Dungeon,Bergmite,30,35
 Mirage Tower 2F,Dungeon,Passimian,30,35
 Mirage Tower 2F,Dungeon,Turtonator,30,35
-Mirage Tower 2F,Dungeon,flutter mane,30,35
-Mirage Tower 2F,Dungeon,iron hands,30,35
-Mirage Tower 2F,Dungeon,scream tail,30,35
-Mirage Tower 3F,Dungeon,rhyhorn,30,35
-Mirage Tower 3F,Dungeon,wynaut,30,35
+Mirage Tower 2F,Dungeon,Flutter Mane,30,35
+Mirage Tower 2F,Dungeon,Iron Hands,30,35
+Mirage Tower 2F,Dungeon,Scream Tail,30,35
+Mirage Tower 3F,Dungeon,Rhyhorn,30,35
+Mirage Tower 3F,Dungeon,Wynaut,30,35
 Mirage Tower 3F,Dungeon,Pachirisu,30,35
 Mirage Tower 3F,Dungeon,Litwick,30,35
 Mirage Tower 3F,Dungeon,Inkay,30,35
@@ -497,36 +497,36 @@ Mirage Tower 3F,Dungeon,Phantump,30,35
 Mirage Tower 3F,Dungeon,Noibat,30,35
 Mirage Tower 3F,Dungeon,Comfey,30,35
 Mirage Tower 3F,Dungeon,Oranguru,30,35
-Mirage Tower 3F,Dungeon,iron moth,30,35
-Mirage Tower 3F,Dungeon,iron jugulis,30,35
-Mirage Tower 3F,Dungeon,slither wing,30,35
-Mirage Tower 4F,Dungeon,kangaskhan,30,35
-Mirage Tower 4F,Dungeon,unown,30,35
+Mirage Tower 3F,Dungeon,Iron Moth,30,35
+Mirage Tower 3F,Dungeon,Iron Jugulis,30,35
+Mirage Tower 3F,Dungeon,Slither Wing,30,35
+Mirage Tower 4F,Dungeon,Kangaskhan,30,35
+Mirage Tower 4F,Dungeon,Unown,30,35
 Mirage Tower 4F,Dungeon,Klink,30,35
 Mirage Tower 4F,Dungeon,Cryogonal,30,35
 Mirage Tower 4F,Dungeon,Espurr,30,35
 Mirage Tower 4F,Dungeon,Klefki,30,35
 Mirage Tower 4F,Dungeon,Mimikyu,30,35
 Mirage Tower 4F,Dungeon,Drampa,30,35
-Mirage Tower 4F,Dungeon,iron valiant,30,35
-Mirage Tower 4F,Dungeon,sandy shocks,30,35
-Mirage Tower 4F,Dungeon,iron thorns,30,35
-Mirage Tower 4F,Dungeon,roaring moon,30,35
-Desert Underpass,Cave,omanyte,30,32
-Desert Underpass,Cave,kabuto,30,32
-Desert Underpass,Cave,cranidos,30,32
-Desert Underpass,Cave,shieldon,30,32
-Desert Underpass,Cave,tirtouga,30,32
-Desert Underpass,Cave,archen,30,32
-Desert Underpass,Cave,tyrunt,30,32
-Desert Underpass,Cave,amaura,30,32
-Desert Underpass,Cave,arctozolt,30,32
-Desert Underpass,Cave,arctovish,30,32
-Desert Underpass,Cave,dracovish,30,32
-Desert Underpass,Cave,dracozolt,30,32
+Mirage Tower 4F,Dungeon,Iron Valiant,30,35
+Mirage Tower 4F,Dungeon,Sandy Shocks,30,35
+Mirage Tower 4F,Dungeon,Iron Thorns,30,35
+Mirage Tower 4F,Dungeon,Roaring Moon,30,35
+Desert Underpass,Cave,Omanyte,30,32
+Desert Underpass,Cave,Kabuto,30,32
+Desert Underpass,Cave,Cranidos,30,32
+Desert Underpass,Cave,Shieldon,30,32
+Desert Underpass,Cave,Tirtouga,30,32
+Desert Underpass,Cave,Archen,30,32
+Desert Underpass,Cave,Tyrunt,30,32
+Desert Underpass,Cave,Amaura,30,32
+Desert Underpass,Cave,Arctozolt,30,32
+Desert Underpass,Cave,Arctovish,30,32
+Desert Underpass,Cave,Dracovish,30,32
+Desert Underpass,Cave,Dracozolt,30,32
 Island Cave,Cave,Bergmite,25,30
-Island Cave,Cave,snorunt,25,30
-Island Cave,Cave,darumaka-galar,25,30
+Island Cave,Cave,Snorunt,25,30
+Island Cave,Cave,Darumaka-Galar,25,30
 Ancient Tomb,Dungeon,Varoom,25,30
 Ancient Tomb,Dungeon,Beldum,25,30
 Ancient Tomb,Dungeon,Metang,25,30
@@ -540,757 +540,757 @@ New Mauville,Dungeon,Yamper,25,30
 New Mauville,Dungeon,Togedemaru,25,30
 New Mauville,Dungeon,Dedenne,25,30
 New Mauville,Dungeon,Minccino,25,30
-New Mauville,Dungeon,porygon,25,30
-New Mauville,Dungeon,trubbish,25,30
+New Mauville,Dungeon,Porygon,25,30
+New Mauville,Dungeon,Trubbish,25,30
 New Mauville,Dungeon,Pincurchin,25,30
 New Mauville,Dungeon,Tadbulb,25,30
 New Mauville,Dungeon,Rotom,25,30
 New Mauville,Dungeon,Duraludon,25,30
-Mt. Pyre 1F,Cave,dreepy,35,40
-Mt. Pyre 1F,Cave,shuppet,35,40
-Mt. Pyre 1F,Cave,banette,35,40
-Mt. Pyre 1F,Cave,yamask,35,40
-Mt. Pyre 1F,Cave,yamask-galar,35,40
-Mt. Pyre 1F,Cave,cofagrigus,35,40
-Mt. Pyre 1F,Cave,runerigus,35,40
-Mt Pyre 2F,Cave,yamask,35,40
-Mt Pyre 2F,Cave,yamask-galar,35,40
-Mt Pyre 2F,Cave,cofagrigus,35,40
-Mt Pyre 2F,Cave,runerigus,35,40
-Mt Pyre 2F,Cave,haunter,35,40
-Mt Pyre 2F,Cave,haunter,35,40
-Mt Pyre 2F,Cave,zorua-hisui,35,40
-Mt Pyre 2F,Cave,lampent,35,40
-Mt Pyre 2F,Cave,chandelure,35,40
-Mt Pyre 2F,Cave,marowak-alola,35,40
-Mt. Pyre 3F,Cave,gimmighoul-R,35,40
-Mt. Pyre 3F,Cave,chingling,35,40
-Mt. Pyre 3F,Cave,golett,35,40
-Mt. Pyre 3F,Cave,inkay,35,40
-Mt. Pyre 3F,Cave,elgyem,35,40
-Mt. Pyre 3F,Cave,mimikyu,35,40
-Mt. Pyre 3F,Cave,flutter mane,35,40
-Mt. Pyre 3F,Cave,brute bonnet,35,40
-Mt. Pyre 4F,Cave,duosion,35,40
-Mt. Pyre 4F,Cave,scrafty,35,40
-Mt. Pyre 4F,Cave,zorua,35,40
-Mt. Pyre 4F,Cave,murkrow,35,40
-Mt. Pyre 4F,Cave,linoone-galar,35,40
-Mt. Pyre 4F,Cave,spiritomb,35,40
-Mt. Pyre 4F,Cave,bisharp,35,40
-Mt. Pyre 4F,Cave,roaring moon,35,40
-Mt. Pyre 5F,Cave,swoobat,35,40
-Mt. Pyre 5F,Cave,misdreavus,35,40
-Mt. Pyre 5F,Cave,noctowl,35,40
-Mt. Pyre 5F,Cave,raticate alola,35,40
-Mt. Pyre 5F,Cave,grumpig,35,40
-Mt. Pyre 5F,Cave,rotom,35,40
-Mt. Pyre 5F,Cave,iron jugulis,35,40
-Mt. Pyre 6F,Cave,sinistcha,35,40
-Mt. Pyre 6F,Cave,polteageist,35,40
-Mt. Pyre 6F,Cave,mabostiff,35,40
-Mt. Pyre 6F,Cave,bombirdier,35,40
-Mt. Pyre 6F,Cave,ceruledge,35,40
-Mt. Pyre 6F,Cave,armarouge,35,40
-Mt. Pyre 6F,Cave,pecharunt,35,40
-Mt. Pyre Exterior,Cave,marowak,35,40
-Mt. Pyre Exterior,Cave,golurk,35,40
-Mt. Pyre Exterior,Cave,pupitar,35,40
-Mt. Pyre Exterior,Cave,sableye,35,40
-Mt. Pyre Exterior,Cave,sneasel,35,40
-Mt. Pyre Exterior,Cave,weavile,35,40
-Mt. Pyre Exterior,Cave,pecharunt,35,40
-Mt. Pyre Summit,Cave,drifblim,35,40
-Mt. Pyre Summit,Cave,grimer alola,35,40
-Mt. Pyre Summit,Cave,bramblin,35,40
-Mt. Pyre Summit,Cave,primeape,35,40
-Mt. Pyre Summit,Cave,gabite,35,40
-Mt. Pyre Summit,Cave,pecharunt,35,40
-Magma Hideout 1F,Dungeon,graveler,40,50
-Magma Hideout 1F,Dungeon,graveler-alola,40,50
-Magma Hideout 1F,Dungeon,magmar,40,50
-Magma Hideout 1F,Dungeon,coalossal,40,50
-Magma Hideout 1F,Dungeon,heatmor,40,50
-Magma Hideout 1F,Dungeon,ceruledge,40,50
-Magma Hideout 1F,Dungeon,armarouge,40,50
+Mt. Pyre 1F,Cave,Dreepy,35,40
+Mt. Pyre 1F,Cave,Shuppet,35,40
+Mt. Pyre 1F,Cave,Banette,35,40
+Mt. Pyre 1F,Cave,Yamask,35,40
+Mt. Pyre 1F,Cave,Yamask-Galar,35,40
+Mt. Pyre 1F,Cave,Cofagrigus,35,40
+Mt. Pyre 1F,Cave,Runerigus,35,40
+Mt Pyre 2F,Cave,Yamask,35,40
+Mt Pyre 2F,Cave,Yamask-Galar,35,40
+Mt Pyre 2F,Cave,Cofagrigus,35,40
+Mt Pyre 2F,Cave,Runerigus,35,40
+Mt Pyre 2F,Cave,Haunter,35,40
+Mt Pyre 2F,Cave,Haunter,35,40
+Mt Pyre 2F,Cave,Zorua-Hisui,35,40
+Mt Pyre 2F,Cave,Lampent,35,40
+Mt Pyre 2F,Cave,Chandelure,35,40
+Mt Pyre 2F,Cave,Marowak-Alola,35,40
+Mt. Pyre 3F,Cave,Gimmighoul-R,35,40
+Mt. Pyre 3F,Cave,Chingling,35,40
+Mt. Pyre 3F,Cave,Golett,35,40
+Mt. Pyre 3F,Cave,Inkay,35,40
+Mt. Pyre 3F,Cave,Elgyem,35,40
+Mt. Pyre 3F,Cave,Mimikyu,35,40
+Mt. Pyre 3F,Cave,Flutter Mane,35,40
+Mt. Pyre 3F,Cave,Brute Bonnet,35,40
+Mt. Pyre 4F,Cave,Duosion,35,40
+Mt. Pyre 4F,Cave,Scrafty,35,40
+Mt. Pyre 4F,Cave,Zorua,35,40
+Mt. Pyre 4F,Cave,Murkrow,35,40
+Mt. Pyre 4F,Cave,Linoone-Galar,35,40
+Mt. Pyre 4F,Cave,Spiritomb,35,40
+Mt. Pyre 4F,Cave,Bisharp,35,40
+Mt. Pyre 4F,Cave,Roaring Moon,35,40
+Mt. Pyre 5F,Cave,Swoobat,35,40
+Mt. Pyre 5F,Cave,Misdreavus,35,40
+Mt. Pyre 5F,Cave,Noctowl,35,40
+Mt. Pyre 5F,Cave,Raticate Alola,35,40
+Mt. Pyre 5F,Cave,Grumpig,35,40
+Mt. Pyre 5F,Cave,Rotom,35,40
+Mt. Pyre 5F,Cave,Iron Jugulis,35,40
+Mt. Pyre 6F,Cave,Sinistcha,35,40
+Mt. Pyre 6F,Cave,Polteageist,35,40
+Mt. Pyre 6F,Cave,Mabostiff,35,40
+Mt. Pyre 6F,Cave,Bombirdier,35,40
+Mt. Pyre 6F,Cave,Ceruledge,35,40
+Mt. Pyre 6F,Cave,Armarouge,35,40
+Mt. Pyre 6F,Cave,Pecharunt,35,40
+Mt. Pyre Exterior,Cave,Marowak,35,40
+Mt. Pyre Exterior,Cave,Golurk,35,40
+Mt. Pyre Exterior,Cave,Pupitar,35,40
+Mt. Pyre Exterior,Cave,Sableye,35,40
+Mt. Pyre Exterior,Cave,Sneasel,35,40
+Mt. Pyre Exterior,Cave,Weavile,35,40
+Mt. Pyre Exterior,Cave,Pecharunt,35,40
+Mt. Pyre Summit,Cave,Drifblim,35,40
+Mt. Pyre Summit,Cave,Grimer Alola,35,40
+Mt. Pyre Summit,Cave,Bramblin,35,40
+Mt. Pyre Summit,Cave,Primeape,35,40
+Mt. Pyre Summit,Cave,Gabite,35,40
+Mt. Pyre Summit,Cave,Pecharunt,35,40
+Magma Hideout 1F,Dungeon,Graveler,40,50
+Magma Hideout 1F,Dungeon,Graveler-Alola,40,50
+Magma Hideout 1F,Dungeon,Magmar,40,50
+Magma Hideout 1F,Dungeon,Coalossal,40,50
+Magma Hideout 1F,Dungeon,Heatmor,40,50
+Magma Hideout 1F,Dungeon,Ceruledge,40,50
+Magma Hideout 1F,Dungeon,Armarouge,40,50
 Magma Hideout 1F,Dungeon,Chi-Yu,40,50
 Magma Hideout 1F,Dungeon,Ting-Lu,40,50
-Magma Hideout 2F-1R,Dungeon,darmanitan,40,50
-Magma Hideout 2F-1R,Dungeon,krookodile,40,50
-Magma Hideout 2F-1R,Dungeon,chandelure,40,50
-Magma Hideout 2F-1R,Dungeon,steelix,40,50
-Magma Hideout 2F-1R,Dungeon,ceruledge,40,50
-Magma Hideout 2F-1R,Dungeon,armarouge,40,50
+Magma Hideout 2F-1R,Dungeon,Darmanitan,40,50
+Magma Hideout 2F-1R,Dungeon,Krookodile,40,50
+Magma Hideout 2F-1R,Dungeon,Chandelure,40,50
+Magma Hideout 2F-1R,Dungeon,Steelix,40,50
+Magma Hideout 2F-1R,Dungeon,Ceruledge,40,50
+Magma Hideout 2F-1R,Dungeon,Armarouge,40,50
 Magma Hideout 2F-1R,Dungeon,Chi-Yu,40,50
 Magma Hideout 2F-1R,Dungeon,Ting-Lu,40,50
-Magma Hideout 2F-2R,Dungeon,darmanitan,40,50
-Magma Hideout 2F-2R,Dungeon,krookodile,40,50
-Magma Hideout 2F-2R,Dungeon,chandelure,40,50
-Magma Hideout 2F-2R,Dungeon,steelix,40,50
-Magma Hideout 2F-2R,Dungeon,ceruledge,40,50
-Magma Hideout 2F-2R,Dungeon,armarouge,40,50
+Magma Hideout 2F-2R,Dungeon,Darmanitan,40,50
+Magma Hideout 2F-2R,Dungeon,Krookodile,40,50
+Magma Hideout 2F-2R,Dungeon,Chandelure,40,50
+Magma Hideout 2F-2R,Dungeon,Steelix,40,50
+Magma Hideout 2F-2R,Dungeon,Ceruledge,40,50
+Magma Hideout 2F-2R,Dungeon,Armarouge,40,50
 Magma Hideout 2F-2R,Dungeon,Chi-Yu,40,50
 Magma Hideout 2F-2R,Dungeon,Ting-Lu,40,50
-Magma Hideout 2F-3R,Dungeon,darmanitan,40,50
-Magma Hideout 2F-3R,Dungeon,krookodile,40,50
-Magma Hideout 2F-3R,Dungeon,chandelure,40,50
-Magma Hideout 2F-3R,Dungeon,steelix,40,50
-Magma Hideout 2F-3R,Dungeon,ceruledge,40,50
-Magma Hideout 2F-3R,Dungeon,armarouge,40,50
+Magma Hideout 2F-3R,Dungeon,Darmanitan,40,50
+Magma Hideout 2F-3R,Dungeon,Krookodile,40,50
+Magma Hideout 2F-3R,Dungeon,Chandelure,40,50
+Magma Hideout 2F-3R,Dungeon,Steelix,40,50
+Magma Hideout 2F-3R,Dungeon,Ceruledge,40,50
+Magma Hideout 2F-3R,Dungeon,Armarouge,40,50
 Magma Hideout 2F-3R,Dungeon,Chi-Yu,40,50
 Magma Hideout 2F-3R,Dungeon,Ting-Lu,40,50
-Magma Hideout 3F-1R,Dungeon,houndoom,40,50
-Magma Hideout 3F-1R,Dungeon,arcanine,40,50
-Magma Hideout 3F-1R,Dungeon,arcanine-hisui,40,50
-Magma Hideout 3F-1R,Dungeon,ninetales,40,50
-Magma Hideout 3F-1R,Dungeon,excadrill,40,50
-Magma Hideout 3F-1R,Dungeon,ceruledge,40,50
-Magma Hideout 3F-1R,Dungeon,armarouge,40,50
+Magma Hideout 3F-1R,Dungeon,Houndoom,40,50
+Magma Hideout 3F-1R,Dungeon,Arcanine,40,50
+Magma Hideout 3F-1R,Dungeon,Arcanine-Hisui,40,50
+Magma Hideout 3F-1R,Dungeon,Ninetales,40,50
+Magma Hideout 3F-1R,Dungeon,Excadrill,40,50
+Magma Hideout 3F-1R,Dungeon,Ceruledge,40,50
+Magma Hideout 3F-1R,Dungeon,Armarouge,40,50
 Magma Hideout 3F-1R,Dungeon,Chi-Yu,40,50
 Magma Hideout 3F-1R,Dungeon,Ting-Lu,40,50
-Magma Hideout 3F-2R,Dungeon,houndoom,40,50
-Magma Hideout 3F-2R,Dungeon,arcanine,40,50
-Magma Hideout 3F-2R,Dungeon,arcanine-hisui,40,50
-Magma Hideout 3F-2R,Dungeon,ninetales,40,50
-Magma Hideout 3F-2R,Dungeon,excadrill,40,50
-Magma Hideout 3F-2R,Dungeon,ceruledge,40,50
-Magma Hideout 3F-2R,Dungeon,armarouge,40,50
+Magma Hideout 3F-2R,Dungeon,Houndoom,40,50
+Magma Hideout 3F-2R,Dungeon,Arcanine,40,50
+Magma Hideout 3F-2R,Dungeon,Arcanine-Hisui,40,50
+Magma Hideout 3F-2R,Dungeon,Ninetales,40,50
+Magma Hideout 3F-2R,Dungeon,Excadrill,40,50
+Magma Hideout 3F-2R,Dungeon,Ceruledge,40,50
+Magma Hideout 3F-2R,Dungeon,Armarouge,40,50
 Magma Hideout 3F-2R,Dungeon,Chi-Yu,40,50
 Magma Hideout 3F-2R,Dungeon,Ting-Lu,40,50
-Magma Hideout 3F-3R,Dungeon,houndoom,40,50
-Magma Hideout 3F-3R,Dungeon,arcanine,40,50
-Magma Hideout 3F-3R,Dungeon,arcanine-hisui,40,50
-Magma Hideout 3F-3R,Dungeon,ninetales,40,50
-Magma Hideout 3F-3R,Dungeon,excadrill,40,50
-Magma Hideout 3F-3R,Dungeon,ceruledge,40,50
-Magma Hideout 3F-3R,Dungeon,armarouge,40,50
+Magma Hideout 3F-3R,Dungeon,Houndoom,40,50
+Magma Hideout 3F-3R,Dungeon,Arcanine,40,50
+Magma Hideout 3F-3R,Dungeon,Arcanine-Hisui,40,50
+Magma Hideout 3F-3R,Dungeon,Ninetales,40,50
+Magma Hideout 3F-3R,Dungeon,Excadrill,40,50
+Magma Hideout 3F-3R,Dungeon,Ceruledge,40,50
+Magma Hideout 3F-3R,Dungeon,Armarouge,40,50
 Magma Hideout 3F-3R,Dungeon,Chi-Yu,40,50
 Magma Hideout 3F-3R,Dungeon,Ting-Lu,40,50
-Magma Hideout 4F,Dungeon,donphan,40,50
-Magma Hideout 4F,Dungeon,pupitar,40,50
-Magma Hideout 4F,Dungeon,garganacl,40,50
-Magma Hideout 4F,Dungeon,iron thorns,40,50
-Magma Hideout 4F,Dungeon,iron treads,40,50
-Magma Hideout 4F,Dungeon,great tusk,40,50
-Magma Hideout 4F,Dungeon,ceruledge,40,50
-Magma Hideout 4F,Dungeon,armarouge,40,50
+Magma Hideout 4F,Dungeon,Donphan,40,50
+Magma Hideout 4F,Dungeon,Pupitar,40,50
+Magma Hideout 4F,Dungeon,Garganacl,40,50
+Magma Hideout 4F,Dungeon,Iron Thorns,40,50
+Magma Hideout 4F,Dungeon,Iron Treads,40,50
+Magma Hideout 4F,Dungeon,Great Tusk,40,50
+Magma Hideout 4F,Dungeon,Ceruledge,40,50
+Magma Hideout 4F,Dungeon,Armarouge,40,50
 Magma Hideout 4F,Dungeon,Chi-Yu,40,50
 Magma Hideout 4F,Dungeon,Ting-Lu,40,50
-Seafloor Cavern 1R,Dungeon,crobat,40,50
-Seafloor Cavern 1R,Dungeon,klawf,40,50
-Seafloor Cavern 1R,Dungeon,granbull,40,50
-Seafloor Cavern 1R,Dungeon,probopass,40,50
-Seafloor Cavern 1R,Dungeon,reuniclus,40,50
+Seafloor Cavern 1R,Dungeon,Crobat,40,50
+Seafloor Cavern 1R,Dungeon,Klawf,40,50
+Seafloor Cavern 1R,Dungeon,Granbull,40,50
+Seafloor Cavern 1R,Dungeon,Probopass,40,50
+Seafloor Cavern 1R,Dungeon,Reuniclus,40,50
 Seafloor Cavern 1R,Dungeon,Wo-Chien,40,50
 Seafloor Cavern 1R,Dungeon,Chien-Pao,40,50
-Seafloor Cavern 2R,Dungeon,crobat,40,50
-Seafloor Cavern 2R,Dungeon,klawf,40,50
-Seafloor Cavern 2R,Dungeon,granbull,40,50
-Seafloor Cavern 2R,Dungeon,probopass,40,50
-Seafloor Cavern 2R,Dungeon,reuniclus,40,50
+Seafloor Cavern 2R,Dungeon,Crobat,40,50
+Seafloor Cavern 2R,Dungeon,Klawf,40,50
+Seafloor Cavern 2R,Dungeon,Granbull,40,50
+Seafloor Cavern 2R,Dungeon,Probopass,40,50
+Seafloor Cavern 2R,Dungeon,Reuniclus,40,50
 Seafloor Cavern 2R,Dungeon,Wo-Chien,40,50
 Seafloor Cavern 2R,Dungeon,Chien-Pao,40,50
-Seafloor Cavern 3R,Dungeon,malamar,40,50
-Seafloor Cavern 3R,Dungeon,mamoswine,40,50
-Seafloor Cavern 3R,Dungeon,steenee,40,50
-Seafloor Cavern 3R,Dungeon,appletun,40,50
-Seafloor Cavern 3R,Dungeon,flapple,40,50
-Seafloor Cavern 3R,Dungeon,toxtricity,40,50
-Seafloor Cavern 3R,Dungeon,toxtricity-low-key,40,50
+Seafloor Cavern 3R,Dungeon,Malamar,40,50
+Seafloor Cavern 3R,Dungeon,Mamoswine,40,50
+Seafloor Cavern 3R,Dungeon,Steenee,40,50
+Seafloor Cavern 3R,Dungeon,Appletun,40,50
+Seafloor Cavern 3R,Dungeon,Flapple,40,50
+Seafloor Cavern 3R,Dungeon,Toxtricity,40,50
+Seafloor Cavern 3R,Dungeon,Toxtricity-Low-Key,40,50
 Seafloor Cavern 3R,Dungeon,Wo-Chien,40,50
 Seafloor Cavern 3R,Dungeon,Chien-Pao,40,50
-Seafloor Cavern 4R,Dungeon,malamar,40,50
-Seafloor Cavern 4R,Dungeon,mamoswine,40,50
-Seafloor Cavern 4R,Dungeon,steenee,40,50
-Seafloor Cavern 4R,Dungeon,appletun,40,50
-Seafloor Cavern 4R,Dungeon,flapple,40,50
-Seafloor Cavern 4R,Dungeon,toxtricity,40,50
-Seafloor Cavern 4R,Dungeon,toxtricity-low-key,40,50
+Seafloor Cavern 4R,Dungeon,Malamar,40,50
+Seafloor Cavern 4R,Dungeon,Mamoswine,40,50
+Seafloor Cavern 4R,Dungeon,Steenee,40,50
+Seafloor Cavern 4R,Dungeon,Appletun,40,50
+Seafloor Cavern 4R,Dungeon,Flapple,40,50
+Seafloor Cavern 4R,Dungeon,Toxtricity,40,50
+Seafloor Cavern 4R,Dungeon,Toxtricity-Low-Key,40,50
 Seafloor Cavern 4R,Dungeon,Wo-Chien,40,50
 Seafloor Cavern 4R,Dungeon,Chien-Pao,40,50
-Seafloor Cavern 5R,Dungeon,drednaw,40,50
-Seafloor Cavern 5R,Dungeon,glimmora,40,50
-Seafloor Cavern 5R,Dungeon,houndstone,40,50
-Seafloor Cavern 5R,Dungeon,stonjourner,40,50
-Seafloor Cavern 5R,Dungeon,iron jugulis,40,50
-Seafloor Cavern 5R,Dungeon,brute bonnet,40,50
-Seafloor Cavern 5R,Dungeon,iron bundle,40,50
+Seafloor Cavern 5R,Dungeon,Drednaw,40,50
+Seafloor Cavern 5R,Dungeon,Glimmora,40,50
+Seafloor Cavern 5R,Dungeon,Houndstone,40,50
+Seafloor Cavern 5R,Dungeon,Stonjourner,40,50
+Seafloor Cavern 5R,Dungeon,Iron Jugulis,40,50
+Seafloor Cavern 5R,Dungeon,Brute Bonnet,40,50
+Seafloor Cavern 5R,Dungeon,Iron Bundle,40,50
 Seafloor Cavern 5R,Dungeon,Wo-Chien,40,50
 Seafloor Cavern 5R,Dungeon,Chien-Pao,40,50
-Seafloor Cavern 6R,Dungeon,drednaw,40,50
-Seafloor Cavern 6R,Dungeon,poliwhirl,40,50
-Seafloor Cavern 6R,Dungeon,crawdaunt,40,50
-Seafloor Cavern 6R,Dungeon,barbaracle,40,50
-Seafloor Cavern 6R,Dungeon,hakamo-o,40,50
+Seafloor Cavern 6R,Dungeon,Drednaw,40,50
+Seafloor Cavern 6R,Dungeon,Poliwhirl,40,50
+Seafloor Cavern 6R,Dungeon,Crawdaunt,40,50
+Seafloor Cavern 6R,Dungeon,Barbaracle,40,50
+Seafloor Cavern 6R,Dungeon,Hakamo-O,40,50
 Seafloor Cavern 6R,Dungeon,Wo-Chien,40,50
 Seafloor Cavern 6R,Dungeon,Chien-Pao,40,50
-Seafloor Cavern 7R,Dungeon,drednaw,40,50
-Seafloor Cavern 7R,Dungeon,poliwhirl,40,50
-Seafloor Cavern 7R,Dungeon,crawdaunt,40,50
-Seafloor Cavern 7R,Dungeon,barbaracle,40,50
-Seafloor Cavern 7R,Dungeon,hakamo-o,40,50
+Seafloor Cavern 7R,Dungeon,Drednaw,40,50
+Seafloor Cavern 7R,Dungeon,Poliwhirl,40,50
+Seafloor Cavern 7R,Dungeon,Crawdaunt,40,50
+Seafloor Cavern 7R,Dungeon,Barbaracle,40,50
+Seafloor Cavern 7R,Dungeon,Hakamo-O,40,50
 Seafloor Cavern 7R,Dungeon,Wo-Chien,40,50
 Seafloor Cavern 7R,Dungeon,Chien-Pao,40,50
-Seafloor Cavern 8R,Dungeon,flamigo,40,50
-Seafloor Cavern 8R,Dungeon,munchlax,40,50
-Seafloor Cavern 8R,Dungeon,porygon,40,50
-Seafloor Cavern 8R,Dungeon,nidoking,40,50
-Seafloor Cavern 8R,Dungeon,nidoqueen,40,50
-Seafloor Cavern 8R,Dungeon,slither wing,40,50
-Seafloor Cavern 8R,Dungeon,iron hands,40,50
-Seafloor Cavern 8R,Dungeon,sandy shocks,40,50
+Seafloor Cavern 8R,Dungeon,Flamigo,40,50
+Seafloor Cavern 8R,Dungeon,Munchlax,40,50
+Seafloor Cavern 8R,Dungeon,Porygon,40,50
+Seafloor Cavern 8R,Dungeon,Nidoking,40,50
+Seafloor Cavern 8R,Dungeon,Nidoqueen,40,50
+Seafloor Cavern 8R,Dungeon,Slither Wing,40,50
+Seafloor Cavern 8R,Dungeon,Iron Hands,40,50
+Seafloor Cavern 8R,Dungeon,Sandy Shocks,40,50
 Seafloor Cavern 8R,Dungeon,Wo-Chien,40,50
 Seafloor Cavern 8R,Dungeon,Chien-Pao,40,50
-Shoal Cave Entrance,Cave,great tusk,50,60
-Shoal Cave Entrance,Cave,scream tail,50,60
-Shoal Cave Entrance,Cave,brute bonnet,50,60
-Shoal Cave Entrance,Cave,flutter mane,50,60
-Shoal Cave Entrance,Cave,slither wing,50,60
-Shoal Cave Entrance,Cave,sandy shocks,50,60
-Shoal Cave Entrance,Cave,roaring moon,50,60
-Shoal Cave Entrance,Cave,walking wake,50,60
-Shoal Cave Entrance,Cave,gouging fire,50,60
-Shoal Cave Entrance,Cave,raging bolt,50,60
-Shoal Cave Inner,Cave,great tusk,50,60
-Shoal Cave Inner,Cave,scream tail,50,60
-Shoal Cave Inner,Cave,brute bonnet,50,60
-Shoal Cave Inner,Cave,flutter mane,50,60
-Shoal Cave Inner,Cave,slither wing,50,60
-Shoal Cave Inner,Cave,sandy shocks,50,60
-Shoal Cave Inner,Cave,roaring moon,50,60
-Shoal Cave Inner,Cave,walking wake,50,60
-Shoal Cave Inner,Cave,gouging fire,50,60
-Shoal Cave Inner,Cave,raging bolt,50,60
-Shoal Cave Stairs,Cave,iron treads,50,60
-Shoal Cave Stairs,Cave,iron bundle,50,60
-Shoal Cave Stairs,Cave,iron hands,50,60
-Shoal Cave Stairs,Cave,iron jugulis,50,60
-Shoal Cave Stairs,Cave,iron moth,50,60
-Shoal Cave Stairs,Cave,iron thorns,50,60
-Shoal Cave Stairs,Cave,iron valiant,50,60
-Shoal Cave Stairs,Cave,iron leaves,50,60
-Shoal Cave Stairs,Cave,iron boulder,50,60
-Shoal Cave Stairs,Cave,iron crown,50,60
-Shoal Cave Lower,Cave,iron treads,50,60
-Shoal Cave Lower,Cave,iron bundle,50,60
-Shoal Cave Lower,Cave,iron hands,50,60
-Shoal Cave Lower,Cave,iron jugulis,50,60
-Shoal Cave Lower,Cave,iron moth,50,60
-Shoal Cave Lower,Cave,iron thorns,50,60
-Shoal Cave Lower,Cave,iron valiant,50,60
-Shoal Cave Lower,Cave,iron leaves,50,60
-Shoal Cave Lower,Cave,iron boulder,50,60
-Shoal Cave Lower,Cave,iron crown,50,60
-Shoal Cave Ice,Cave,arctibax,50,60
-Shoal Cave Ice,Cave,froslass,50,60
-Shoal Cave Ice,Cave,lapras,50,60
-Shoal Cave Ice,Cave,darmanitan galar,50,60
-Shoal Cave Ice,Cave,cryogonal,50,60
-Shoal Cave Ice,Cave,baxcalibur,50,60
+Shoal Cave Entrance,Cave,Great Tusk,50,60
+Shoal Cave Entrance,Cave,Scream Tail,50,60
+Shoal Cave Entrance,Cave,Brute Bonnet,50,60
+Shoal Cave Entrance,Cave,Flutter Mane,50,60
+Shoal Cave Entrance,Cave,Slither Wing,50,60
+Shoal Cave Entrance,Cave,Sandy Shocks,50,60
+Shoal Cave Entrance,Cave,Roaring Moon,50,60
+Shoal Cave Entrance,Cave,Walking Wake,50,60
+Shoal Cave Entrance,Cave,Gouging Fire,50,60
+Shoal Cave Entrance,Cave,Raging Bolt,50,60
+Shoal Cave Inner,Cave,Great Tusk,50,60
+Shoal Cave Inner,Cave,Scream Tail,50,60
+Shoal Cave Inner,Cave,Brute Bonnet,50,60
+Shoal Cave Inner,Cave,Flutter Mane,50,60
+Shoal Cave Inner,Cave,Slither Wing,50,60
+Shoal Cave Inner,Cave,Sandy Shocks,50,60
+Shoal Cave Inner,Cave,Roaring Moon,50,60
+Shoal Cave Inner,Cave,Walking Wake,50,60
+Shoal Cave Inner,Cave,Gouging Fire,50,60
+Shoal Cave Inner,Cave,Raging Bolt,50,60
+Shoal Cave Stairs,Cave,Iron Treads,50,60
+Shoal Cave Stairs,Cave,Iron Bundle,50,60
+Shoal Cave Stairs,Cave,Iron Hands,50,60
+Shoal Cave Stairs,Cave,Iron Jugulis,50,60
+Shoal Cave Stairs,Cave,Iron Moth,50,60
+Shoal Cave Stairs,Cave,Iron Thorns,50,60
+Shoal Cave Stairs,Cave,Iron Valiant,50,60
+Shoal Cave Stairs,Cave,Iron Leaves,50,60
+Shoal Cave Stairs,Cave,Iron Boulder,50,60
+Shoal Cave Stairs,Cave,Iron Crown,50,60
+Shoal Cave Lower,Cave,Iron Treads,50,60
+Shoal Cave Lower,Cave,Iron Bundle,50,60
+Shoal Cave Lower,Cave,Iron Hands,50,60
+Shoal Cave Lower,Cave,Iron Jugulis,50,60
+Shoal Cave Lower,Cave,Iron Moth,50,60
+Shoal Cave Lower,Cave,Iron Thorns,50,60
+Shoal Cave Lower,Cave,Iron Valiant,50,60
+Shoal Cave Lower,Cave,Iron Leaves,50,60
+Shoal Cave Lower,Cave,Iron Boulder,50,60
+Shoal Cave Lower,Cave,Iron Crown,50,60
+Shoal Cave Ice,Cave,Arctibax,50,60
+Shoal Cave Ice,Cave,Froslass,50,60
+Shoal Cave Ice,Cave,Lapras,50,60
+Shoal Cave Ice,Cave,Darmanitan Galar,50,60
+Shoal Cave Ice,Cave,Cryogonal,50,60
+Shoal Cave Ice,Cave,Baxcalibur,50,60
 Cave of Origin,Cave,Unown,60,65
-Sky Pillar 1F,Dungeon,drapion,60,65
-Sky Pillar 1F,Dungeon,noivern,60,65
-Sky Pillar 1F,Dungeon,gardevoir,60,65
-Sky Pillar 1F,Dungeon,drampa,60,65
-Sky Pillar 1F,Dungeon,zoroark-hisui,60,65
-Sky Pillar 1F,Dungeon,zoroark,60,65
-Sky Pillar 1F,Dungeon,lucario,60,65
-Sky Pillar 1F,Dungeon,shaymin,60,65
-Sky Pillar 3F,Dungeon,skuntank,60,65
-Sky Pillar 3F,Dungeon,altaria,60,65
-Sky Pillar 3F,Dungeon,gallade,60,65
-Sky Pillar 3F,Dungeon,drampa,60,65
-Sky Pillar 3F,Dungeon,zoroark-hisui,60,65
-Sky Pillar 3F,Dungeon,zoroark,60,65
-Sky Pillar 3F,Dungeon,lucario,60,65
-Sky Pillar 3F,Dungeon,shaymin,60,65
-Sky Pillar 5F,Dungeon,spiritomb,60,65
-Sky Pillar 5F,Dungeon,appletun,60,65
-Sky Pillar 5F,Dungeon,flapple,60,65
-Sky Pillar 5F,Dungeon,hatterene,60,65
-Sky Pillar 5F,Dungeon,drampa,60,65
-Sky Pillar 5F,Dungeon,zoroark-hisui,60,65
-Sky Pillar 5F,Dungeon,zoroark,60,65
-Sky Pillar 5F,Dungeon,hydrapple,60,65
-Sky Pillar 5F,Dungeon,shaymin,60,65
-Victory Road 1F,Cave,aggron,60,65
-Victory Road 1F,Cave,machamp,60,65
-Victory Road 1F,Cave,slaking,60,65
-Victory Road 1F,Cave,houndoom,60,65
-Victory Road 1F,Cave,dragapult,60,65
-Victory Road 1F,Cave,diancie,60,65
-Victory Road B1F,Cave,steelix,60,65
-Victory Road B1F,Cave,conkeldurr,60,65
-Victory Road B1F,Cave,braviary,60,65
-Victory Road B1F,Cave,malamar,60,65
-Victory Road B1F,Cave,dragonite,60,65
-Victory Road B1F,Cave,diancie,60,65
+Sky Pillar 1F,Dungeon,Drapion,60,65
+Sky Pillar 1F,Dungeon,Noivern,60,65
+Sky Pillar 1F,Dungeon,Gardevoir,60,65
+Sky Pillar 1F,Dungeon,Drampa,60,65
+Sky Pillar 1F,Dungeon,Zoroark-Hisui,60,65
+Sky Pillar 1F,Dungeon,Zoroark,60,65
+Sky Pillar 1F,Dungeon,Lucario,60,65
+Sky Pillar 1F,Dungeon,Shaymin,60,65
+Sky Pillar 3F,Dungeon,Skuntank,60,65
+Sky Pillar 3F,Dungeon,Altaria,60,65
+Sky Pillar 3F,Dungeon,Gallade,60,65
+Sky Pillar 3F,Dungeon,Drampa,60,65
+Sky Pillar 3F,Dungeon,Zoroark-Hisui,60,65
+Sky Pillar 3F,Dungeon,Zoroark,60,65
+Sky Pillar 3F,Dungeon,Lucario,60,65
+Sky Pillar 3F,Dungeon,Shaymin,60,65
+Sky Pillar 5F,Dungeon,Spiritomb,60,65
+Sky Pillar 5F,Dungeon,Appletun,60,65
+Sky Pillar 5F,Dungeon,Flapple,60,65
+Sky Pillar 5F,Dungeon,Hatterene,60,65
+Sky Pillar 5F,Dungeon,Drampa,60,65
+Sky Pillar 5F,Dungeon,Zoroark-Hisui,60,65
+Sky Pillar 5F,Dungeon,Zoroark,60,65
+Sky Pillar 5F,Dungeon,Hydrapple,60,65
+Sky Pillar 5F,Dungeon,Shaymin,60,65
+Victory Road 1F,Cave,Aggron,60,65
+Victory Road 1F,Cave,Machamp,60,65
+Victory Road 1F,Cave,Slaking,60,65
+Victory Road 1F,Cave,Houndoom,60,65
+Victory Road 1F,Cave,Dragapult,60,65
+Victory Road 1F,Cave,Diancie,60,65
+Victory Road B1F,Cave,Steelix,60,65
+Victory Road B1F,Cave,Conkeldurr,60,65
+Victory Road B1F,Cave,Braviary,60,65
+Victory Road B1F,Cave,Malamar,60,65
+Victory Road B1F,Cave,Dragonite,60,65
+Victory Road B1F,Cave,Diancie,60,65
 Victory Road B1F,Rocksmash,Golem,60,65
 Victory Road B1F,Rocksmash,Golem-Alola,60,65
-Victory Road B2F,Cave,revaroom,60,65
-Victory Road B2F,Cave,primeape,60,65
-Victory Road B2F,Cave,farigiraf,60,65
-Victory Road B2F,Cave,overqwil,60,65
-Victory Road B2F,Cave,salamence,60,65
-Victory Road B2F,Cave,diancie,60,65
-Route 102,Old Rod,marill,,
-Route 102,Old Rod,arrokuda,,
-Route 102,Good Rod,marill,,
-Route 102,Good Rod,arrokuda,,
-Route 102,Good Rod,shellos,,
-Route 102,Super Rod,azumarill,,
-Route 102,Super Rod,gastrodon,,
-Route 102,Super Rod,barraskewda,,
-Route 102,Super Rod,luvdisc,,
-Route 102,Super Rod,lapras,,
-Route 102,Surfing,horsea,,
-Route 102,Surfing,seadra,,
-Route 103,Old Rod,chinchou,,
-Route 103,Old Rod,mantyke,,
-Route 103,Good Rod,clauncher,,
-Route 103,Good Rod,remoraid,,
-Route 103,Good Rod,corsola,,
-Route 103,Super Rod,clamperl,,
-Route 103,Super Rod,bruxish,,
-Route 103,Super Rod,clawitzer,,
-Route 103,Super Rod,octillery,,
-Petalburg City,Old Rod,slowpoke,,
-Petalburg City,Old Rod,slowpoke-galar,,
-Petalburg City,Good Rod,slowpoke,,
-Petalburg City,Good Rod,slowpoke-galar,,
-Petalburg City,Super Rod,slowbro,,
-Petalburg City,Super Rod,slowbro-galar,,
-Petalburg City,Super Rod,slowking,,
-Petalburg City,Super Rod,slowking-galar,,
-Petalburg City,Surfing,cramorant,,
-Petalburg City,Surfing,pelipper,,
-Route 104,Old Rod,magikarp,,
-Route 104,Old Rod,corphish,,
-Route 104,Good Rod,clobbopus,,
+Victory Road B2F,Cave,Revaroom,60,65
+Victory Road B2F,Cave,Primeape,60,65
+Victory Road B2F,Cave,Farigiraf,60,65
+Victory Road B2F,Cave,Overqwil,60,65
+Victory Road B2F,Cave,Salamence,60,65
+Victory Road B2F,Cave,Diancie,60,65
+Route 102,Old Rod,Marill,,
+Route 102,Old Rod,Arrokuda,,
+Route 102,Good Rod,Marill,,
+Route 102,Good Rod,Arrokuda,,
+Route 102,Good Rod,Shellos,,
+Route 102,Super Rod,Azumarill,,
+Route 102,Super Rod,Gastrodon,,
+Route 102,Super Rod,Barraskewda,,
+Route 102,Super Rod,Luvdisc,,
+Route 102,Super Rod,Lapras,,
+Route 102,Surfing,Horsea,,
+Route 102,Surfing,Seadra,,
+Route 103,Old Rod,Chinchou,,
+Route 103,Old Rod,Mantyke,,
+Route 103,Good Rod,Clauncher,,
+Route 103,Good Rod,Remoraid,,
+Route 103,Good Rod,Corsola,,
+Route 103,Super Rod,Clamperl,,
+Route 103,Super Rod,Bruxish,,
+Route 103,Super Rod,Clawitzer,,
+Route 103,Super Rod,Octillery,,
+Petalburg City,Old Rod,Slowpoke,,
+Petalburg City,Old Rod,Slowpoke-Galar,,
+Petalburg City,Good Rod,Slowpoke,,
+Petalburg City,Good Rod,Slowpoke-Galar,,
+Petalburg City,Super Rod,Slowbro,,
+Petalburg City,Super Rod,Slowbro-Galar,,
+Petalburg City,Super Rod,Slowking,,
+Petalburg City,Super Rod,Slowking-Galar,,
+Petalburg City,Surfing,Cramorant,,
+Petalburg City,Surfing,Pelipper,,
+Route 104,Old Rod,Magikarp,,
+Route 104,Old Rod,Corphish,,
+Route 104,Good Rod,Clobbopus,,
 Route 104,Good Rod,Qwilfish,,
-Route 104,Good Rod,binacle,,
-Route 104,Super Rod,crawdaunt,,
-Route 104,Super Rod,grapploct,,
+Route 104,Good Rod,Binacle,,
+Route 104,Super Rod,Crawdaunt,,
+Route 104,Super Rod,Grapploct,,
 Route 104,Super Rod,Qwilfish,,
-Route 104,Super Rod,barbaracle,,
-Route 104,Super Rod,gyradaos,,
-Route 104,Surfing,basculin,,
-Route 104,Surfing,basculin-blue,,
-Route 104,Surfing,basculin-red,,
-Route 104,Surfing,basculin-white,,
-Route 104,Surfing,basculin,,
-Route 105,Old Rod,clauncher,,
-Route 105,Old Rod,tentacool,,
-Route 105,Good Rod,clauncher,,
-Route 105,Good Rod,tentacool,,
-Route 105,Super Rod,clawitzer,,
-Route 105,Super Rod,tentacruel,,
-Route 105,Surfing,skrelp,,
-Route 105,Surfing,alomomola,,
-Route 105,Surfing,wishiwashi,,
-Route 105,Surfing,bruxish,,
-Route 105,Surfing,floatzel,,
-Route 106,Old Rod,ducklett,,
-Route 106,Old Rod,tentacool,,
-Route 106,Good Rod,tatsugiri,,
-Route 106,Good Rod,veluza,,
-Route 106,Good Rod,shellder,,
-Route 106,Super Rod,cloyster,,
-Route 106,Super Rod,tentacruel,,
-Route 106,Super Rod,swanna,,
-Route 106,Super Rod,cloyster,,
-Route 106,Surfing,finneon,,
-Route 106,Surfing,lumineon,,
-Dewford Town,Old Rod,staryu,,
-Dewford Town,Old Rod,corsola-galar,,
-Dewford Town,Good Rod,staryu,,
-Dewford Town,Good Rod,corsola-galar,,
-Dewford Town,Good Rod,starmie,,
-Dewford Town,Super Rod,starmie,,
-Dewford Town,Super Rod,cursola,,
-Dewford Town,Super Rod,bruxish,,
-Dewford Town,Surfing,poliwhirl,,
-Dewford Town,Surfing,frillish,,
-Dewford Town,Surfing,jellicent,,
-Route 107,Old Rod,buizel,,
-Route 107,Old Rod,mareanie,,
-Route 107,Good Rod,buizel,,
-Route 107,Good Rod,mareanie,,
-Route 107,Good Rod,carvanha,,
-Route 107,Super Rod,floatzel,,
-Route 107,Super Rod,toxapex,,
-Route 107,Super Rod,sharpedo,,
-Route 107,Super Rod,tauros-aqua,,
-Route 107,Surfing,goldeen,,
-Route 107,Surfing,seaking,,
-Route 108,Old Rod,chinchou,,
-Route 108,Old Rod,barboach,,
-Route 108,Good Rod,chinchou,,
-Route 108,Good Rod,barboach,,
-Route 108,Super Rod,lanturn,,
-Route 108,Super Rod,whiscash,,
-Route 108,Surfing,magikarp,,
-Route 108,Surfing,gyradaos,,
-Route 109,Old Rod,wailmer,,
-Route 109,Old Rod,psyduck,,
-Route 109,Good Rod,wailmer,,
-Route 109,Good Rod,psyduck,,
-Route 109,Good Rod,barboach,,
-Route 109,Super Rod,whiscash,,
-Route 109,Super Rod,golduck,,
-Route 109,Super Rod,wailord,,
-Route 109,Surfing,relicanth,,
-Route 109,Surfing,dondozo,,
-Route 109,Surfing,poliwhirl,,
-Route 109,Surfing,wailord,,
-Route 109,Surfing,wishiwashi,,
-Slateport City,Old Rod,skrelp,,
-Slateport City,Old Rod,dewpider,,
-Slateport City,Good Rod,dewpider,,
-Slateport City,Good Rod,wimpod,,
-Slateport City,Super Rod,golisopod,,
-Slateport City,Super Rod,araqanid,,
-Slateport City,Super Rod,dragalgae,,
-Slateport City,Surfing,krabby,,
-Slateport City,Surfing,kingler,,
-Route 110,Old Rod,wooper-paldean,,
-Route 110,Old Rod,wooper,,
-Route 110,Good Rod,wooper,,
-Route 110,Good Rod,wooper-paldean,,
-Route 110,Super Rod,clodsire,,
-Route 110,Super Rod,quagsire,,
-Route 110,Surfing,pinchurchin,,
-Route 110,Surfing,chinchou,,
-Route 110,Surfing,lanturn,,
-Route 111,Old Rod,magikarp,,
-Route 111,Old Rod,grimer,,
-Route 111,Good Rod,magikarp,,
-Route 111,Good Rod,grimer alolan,,
-Route 111,Super Rod,muk alolan,,
-Route 111,Super Rod,muk,,
-Route 111,Super Rod,gyarados,,
-Route 111,Surfing,dratini,,
-Route 111,Surfing,dragonair,,
-Route 114,Old Rod,horsea,,
-Route 114,Old Rod,remoraid,,
-Route 114,Good Rod,horsea,,
-Route 114,Good Rod,remoraid,,
-Route 114,Super Rod,seadra,,
-Route 114,Super Rod,octillery,,
-Route 114,Surfing,yanma,,
-Route 114,Surfing,chatot,,
-Route 114,Surfing,flamigo,,
-Meteor Falls 1F-1R,Old Rod,karrablast,,
-Meteor Falls 1F-1R,Old Rod,shelmet,,
-Meteor Falls 1F-1R,Good Rod,karrablast,,
-Meteor Falls 1F-1R,Good Rod,shelmet,,
-Meteor Falls 1F-1R,Super Rod,veluza,,
-Meteor Falls 1F-1R,Super Rod,dondozo,,
-Meteor Falls 1F-1R,Surfing,bombirdier,,
-Meteor Falls 1F-1R,Surfing,oricorio,,
-Meteor Falls 1F-2R,Old Rod,karrablast,,
-Meteor Falls 1F-2R,Old Rod,shelmet,,
-Meteor Falls 1F-2R,Good Rod,karrablast,,
-Meteor Falls 1F-2R,Good Rod,shelmet,,
-Meteor Falls 1F-2R,Super Rod,veluza,,
-Meteor Falls 1F-2R,Super Rod,dondozo,,
-Meteor Falls 1F-2R,Surfing,bombirdier,,
-Meteor Falls 1F-2R,Surfing,oricorio,,
-Meteor Falls B1F-1R,Old Rod,karrablast,,
-Meteor Falls B1F-1R,Old Rod,shelmet,,
-Meteor Falls B1F-1R,Good Rod,karrablast,,
-Meteor Falls B1F-1R,Good Rod,shelmet,,
-Meteor Falls B1F-1R,Super Rod,veluza,,
-Meteor Falls B1F-1R,Super Rod,dondozo,,
-Meteor Falls B1F-1R,Surfing,bombirdier,,
-Meteor Falls B1F-1R,Surfing,oricorio,,
-Meteor Falls B1F-2R,Old Rod,karrablast,,
-Meteor Falls B1F-2R,Old Rod,shelmet,,
-Meteor Falls B1F-2R,Good Rod,karrablast,,
-Meteor Falls B1F-2R,Good Rod,shelmet,,
-Meteor Falls B1F-2R,Super Rod,veluza,,
-Meteor Falls B1F-2R,Super Rod,dondozo,,
-Meteor Falls B1F-2R,Surfing,bombirdier,,
-Meteor Falls B1F-2R,Surfing,oricorio,,
-Meteor Falls Ship,Old Rod,skrelp,,
-Meteor Falls Ship,Old Rod,tentacool,,
-Meteor Falls Ship,Good Rod,skrelp,,
-Meteor Falls Ship,Good Rod,tentacool,,
-Meteor Falls Ship,Super Rod,tentacool,,
-Meteor Falls Ship,Super Rod,dragalge,,
-Meteor Falls Ship,Surfing,tentacool,,
-Meteor Falls Ship,Surfing,skrelp,,
-Meteor Falls Ship,Surfing,tentacruel,,
-Route 115,Old Rod,spheal,,
-Route 115,Old Rod,seel,,
-Route 115,Good Rod,spheal,,
-Route 115,Good Rod,seel,,
-Route 115,Good Rod,sealeo,,
-Route 115,Super Rod,sealeo,,
-Route 115,Super Rod,dewgong,,
-Route 115,Super Rod,walrein,,
-Route 115,Surfing,chewtle,,
-Route 115,Surfing,drednaw,,
-Route 117,Old Rod,wiglett,,
-Route 117,Old Rod,finizen,,
-Route 117,Good Rod,wiglett,,
-Route 117,Good Rod,finizen,,
-Route 117,Good Rod,wugtrio,,
-Route 117,Super Rod,wugtrio,,
-Route 117,Super Rod,palafin,,
-Route 117,Super Rod,feebas,,
-Route 117,Surfing,masquerain,,
-Route 117,Surfing,mantine,,
-Route 117,Surfing,cramorant,,
-Route 118,Old Rod,magikarp,,
-Route 118,Old Rod,tympole,,
-Route 118,Good Rod,tympole,,
-Route 118,Good Rod,magikarp,,
-Route 118,Good Rod,palpitoad,,
-Route 118,Super Rod,gyarados,,
-Route 118,Super Rod,seismatoad,,
-Route 118,Surfing,wingull,,
-Route 118,Surfing,pelipper,,
-Route 119,Old Rod,azuril,,
-Route 119,Old Rod,marill,,
-Route 119,Good Rod,marill,,
-Route 119,Good Rod,azumarill,,
-Route 119,Super Rod,azumarill,,
+Route 104,Super Rod,Barbaracle,,
+Route 104,Super Rod,Gyradaos,,
+Route 104,Surfing,Basculin,,
+Route 104,Surfing,Basculin-Blue,,
+Route 104,Surfing,Basculin-Red,,
+Route 104,Surfing,Basculin-White,,
+Route 104,Surfing,Basculin,,
+Route 105,Old Rod,Clauncher,,
+Route 105,Old Rod,Tentacool,,
+Route 105,Good Rod,Clauncher,,
+Route 105,Good Rod,Tentacool,,
+Route 105,Super Rod,Clawitzer,,
+Route 105,Super Rod,Tentacruel,,
+Route 105,Surfing,Skrelp,,
+Route 105,Surfing,Alomomola,,
+Route 105,Surfing,Wishiwashi,,
+Route 105,Surfing,Bruxish,,
+Route 105,Surfing,Floatzel,,
+Route 106,Old Rod,Ducklett,,
+Route 106,Old Rod,Tentacool,,
+Route 106,Good Rod,Tatsugiri,,
+Route 106,Good Rod,Veluza,,
+Route 106,Good Rod,Shellder,,
+Route 106,Super Rod,Cloyster,,
+Route 106,Super Rod,Tentacruel,,
+Route 106,Super Rod,Swanna,,
+Route 106,Super Rod,Cloyster,,
+Route 106,Surfing,Finneon,,
+Route 106,Surfing,Lumineon,,
+Dewford Town,Old Rod,Staryu,,
+Dewford Town,Old Rod,Corsola-Galar,,
+Dewford Town,Good Rod,Staryu,,
+Dewford Town,Good Rod,Corsola-Galar,,
+Dewford Town,Good Rod,Starmie,,
+Dewford Town,Super Rod,Starmie,,
+Dewford Town,Super Rod,Cursola,,
+Dewford Town,Super Rod,Bruxish,,
+Dewford Town,Surfing,Poliwhirl,,
+Dewford Town,Surfing,Frillish,,
+Dewford Town,Surfing,Jellicent,,
+Route 107,Old Rod,Buizel,,
+Route 107,Old Rod,Mareanie,,
+Route 107,Good Rod,Buizel,,
+Route 107,Good Rod,Mareanie,,
+Route 107,Good Rod,Carvanha,,
+Route 107,Super Rod,Floatzel,,
+Route 107,Super Rod,Toxapex,,
+Route 107,Super Rod,Sharpedo,,
+Route 107,Super Rod,Tauros-Aqua,,
+Route 107,Surfing,Goldeen,,
+Route 107,Surfing,Seaking,,
+Route 108,Old Rod,Chinchou,,
+Route 108,Old Rod,Barboach,,
+Route 108,Good Rod,Chinchou,,
+Route 108,Good Rod,Barboach,,
+Route 108,Super Rod,Lanturn,,
+Route 108,Super Rod,Whiscash,,
+Route 108,Surfing,Magikarp,,
+Route 108,Surfing,Gyradaos,,
+Route 109,Old Rod,Wailmer,,
+Route 109,Old Rod,Psyduck,,
+Route 109,Good Rod,Wailmer,,
+Route 109,Good Rod,Psyduck,,
+Route 109,Good Rod,Barboach,,
+Route 109,Super Rod,Whiscash,,
+Route 109,Super Rod,Golduck,,
+Route 109,Super Rod,Wailord,,
+Route 109,Surfing,Relicanth,,
+Route 109,Surfing,Dondozo,,
+Route 109,Surfing,Poliwhirl,,
+Route 109,Surfing,Wailord,,
+Route 109,Surfing,Wishiwashi,,
+Slateport City,Old Rod,Skrelp,,
+Slateport City,Old Rod,Dewpider,,
+Slateport City,Good Rod,Dewpider,,
+Slateport City,Good Rod,Wimpod,,
+Slateport City,Super Rod,Golisopod,,
+Slateport City,Super Rod,Araqanid,,
+Slateport City,Super Rod,Dragalgae,,
+Slateport City,Surfing,Krabby,,
+Slateport City,Surfing,Kingler,,
+Route 110,Old Rod,Wooper-Paldean,,
+Route 110,Old Rod,Wooper,,
+Route 110,Good Rod,Wooper,,
+Route 110,Good Rod,Wooper-Paldean,,
+Route 110,Super Rod,Clodsire,,
+Route 110,Super Rod,Quagsire,,
+Route 110,Surfing,Pinchurchin,,
+Route 110,Surfing,Chinchou,,
+Route 110,Surfing,Lanturn,,
+Route 111,Old Rod,Magikarp,,
+Route 111,Old Rod,Grimer,,
+Route 111,Good Rod,Magikarp,,
+Route 111,Good Rod,Grimer Alolan,,
+Route 111,Super Rod,Muk Alolan,,
+Route 111,Super Rod,Muk,,
+Route 111,Super Rod,Gyarados,,
+Route 111,Surfing,Dratini,,
+Route 111,Surfing,Dragonair,,
+Route 114,Old Rod,Horsea,,
+Route 114,Old Rod,Remoraid,,
+Route 114,Good Rod,Horsea,,
+Route 114,Good Rod,Remoraid,,
+Route 114,Super Rod,Seadra,,
+Route 114,Super Rod,Octillery,,
+Route 114,Surfing,Yanma,,
+Route 114,Surfing,Chatot,,
+Route 114,Surfing,Flamigo,,
+Meteor Falls 1F-1R,Old Rod,Karrablast,,
+Meteor Falls 1F-1R,Old Rod,Shelmet,,
+Meteor Falls 1F-1R,Good Rod,Karrablast,,
+Meteor Falls 1F-1R,Good Rod,Shelmet,,
+Meteor Falls 1F-1R,Super Rod,Veluza,,
+Meteor Falls 1F-1R,Super Rod,Dondozo,,
+Meteor Falls 1F-1R,Surfing,Bombirdier,,
+Meteor Falls 1F-1R,Surfing,Oricorio,,
+Meteor Falls 1F-2R,Old Rod,Karrablast,,
+Meteor Falls 1F-2R,Old Rod,Shelmet,,
+Meteor Falls 1F-2R,Good Rod,Karrablast,,
+Meteor Falls 1F-2R,Good Rod,Shelmet,,
+Meteor Falls 1F-2R,Super Rod,Veluza,,
+Meteor Falls 1F-2R,Super Rod,Dondozo,,
+Meteor Falls 1F-2R,Surfing,Bombirdier,,
+Meteor Falls 1F-2R,Surfing,Oricorio,,
+Meteor Falls B1F-1R,Old Rod,Karrablast,,
+Meteor Falls B1F-1R,Old Rod,Shelmet,,
+Meteor Falls B1F-1R,Good Rod,Karrablast,,
+Meteor Falls B1F-1R,Good Rod,Shelmet,,
+Meteor Falls B1F-1R,Super Rod,Veluza,,
+Meteor Falls B1F-1R,Super Rod,Dondozo,,
+Meteor Falls B1F-1R,Surfing,Bombirdier,,
+Meteor Falls B1F-1R,Surfing,Oricorio,,
+Meteor Falls B1F-2R,Old Rod,Karrablast,,
+Meteor Falls B1F-2R,Old Rod,Shelmet,,
+Meteor Falls B1F-2R,Good Rod,Karrablast,,
+Meteor Falls B1F-2R,Good Rod,Shelmet,,
+Meteor Falls B1F-2R,Super Rod,Veluza,,
+Meteor Falls B1F-2R,Super Rod,Dondozo,,
+Meteor Falls B1F-2R,Surfing,Bombirdier,,
+Meteor Falls B1F-2R,Surfing,Oricorio,,
+Meteor Falls Ship,Old Rod,Skrelp,,
+Meteor Falls Ship,Old Rod,Tentacool,,
+Meteor Falls Ship,Good Rod,Skrelp,,
+Meteor Falls Ship,Good Rod,Tentacool,,
+Meteor Falls Ship,Super Rod,Tentacool,,
+Meteor Falls Ship,Super Rod,Dragalge,,
+Meteor Falls Ship,Surfing,Tentacool,,
+Meteor Falls Ship,Surfing,Skrelp,,
+Meteor Falls Ship,Surfing,Tentacruel,,
+Route 115,Old Rod,Spheal,,
+Route 115,Old Rod,Seel,,
+Route 115,Good Rod,Spheal,,
+Route 115,Good Rod,Seel,,
+Route 115,Good Rod,Sealeo,,
+Route 115,Super Rod,Sealeo,,
+Route 115,Super Rod,Dewgong,,
+Route 115,Super Rod,Walrein,,
+Route 115,Surfing,Chewtle,,
+Route 115,Surfing,Drednaw,,
+Route 117,Old Rod,Wiglett,,
+Route 117,Old Rod,Finizen,,
+Route 117,Good Rod,Wiglett,,
+Route 117,Good Rod,Finizen,,
+Route 117,Good Rod,Wugtrio,,
+Route 117,Super Rod,Wugtrio,,
+Route 117,Super Rod,Palafin,,
+Route 117,Super Rod,Feebas,,
+Route 117,Surfing,Masquerain,,
+Route 117,Surfing,Mantine,,
+Route 117,Surfing,Cramorant,,
+Route 118,Old Rod,Magikarp,,
+Route 118,Old Rod,Tympole,,
+Route 118,Good Rod,Tympole,,
+Route 118,Good Rod,Magikarp,,
+Route 118,Good Rod,Palpitoad,,
+Route 118,Super Rod,Gyarados,,
+Route 118,Super Rod,Seismatoad,,
+Route 118,Surfing,Wingull,,
+Route 118,Surfing,Pelipper,,
+Route 119,Old Rod,Azuril,,
+Route 119,Old Rod,Marill,,
+Route 119,Good Rod,Marill,,
+Route 119,Good Rod,Azumarill,,
+Route 119,Super Rod,Azumarill,,
 Route 119,Surfing,Alomomola,,
-Route 119,Surfing,feebas,,
-Route 120,Old Rod,ducklett,,
-Route 120,Old Rod,arrokuda,,
-Route 120,Good Rod,ducklett,,
-Route 120,Good Rod,arrokuda,,
-Route 120,Super Rod,swanna,,
-Route 120,Super Rod,barraskewda,,
-Route 120,Super Rod,basculin,,
-Route 120,Surfing,finneon,,
-Route 120,Surfing,lumineon,,
+Route 119,Surfing,Feebas,,
+Route 120,Old Rod,Ducklett,,
+Route 120,Old Rod,Arrokuda,,
+Route 120,Good Rod,Ducklett,,
+Route 120,Good Rod,Arrokuda,,
+Route 120,Super Rod,Swanna,,
+Route 120,Super Rod,Barraskewda,,
+Route 120,Super Rod,Basculin,,
+Route 120,Surfing,Finneon,,
+Route 120,Surfing,Lumineon,,
 Route 120,Surfing,Qwilfish,,
-Route 121,Old Rod,slowpoke,,
-Route 121,Old Rod,slowpoke-galar,,
-Route 121,Good Rod,slowpoke,,
-Route 121,Good Rod,slowpoke-galar,,
-Route 121,Super Rod,slowbro,,
-Route 121,Super Rod,slowbro-galar,,
-Route 121,Super Rod,slowking,,
-Route 121,Super Rod,slowking-galar,,
-Route 121,Surfing,frillish,,
-Route 121,Surfing,jellicent,,
-Route 122,Old Rod,carvanha,,
-Route 122,Old Rod,grimer-alola,,
-Route 122,Good Rod,carvanha,,
-Route 122,Good Rod,grimer-alola,,
-Route 122,Super Rod,sharpedo,,
-Route 122,Super Rod,muk alola,,
-Route 122,Surfing,krabby,,
-Route 122,Surfing,kingler,,
-Route 123,Old Rod,staryu,,
-Route 123,Old Rod,wooper-paldean,,
-Route 123,Good Rod,staryu,,
-Route 123,Good Rod,wooper-paldean,,
-Route 123,Super Rod,starmie,,
-Route 123,Super Rod,clodsire,,
-Route 123,Surfing,surskit,,
-Route 123,Surfing,masquerain,,
-Lilycove City,Old Rod,arrokuda,,
-Lilycove City,Old Rod,tympole,,
-Lilycove City,Good Rod,tympole,,
-Lilycove City,Good Rod,arrokuda,,
-Lilycove City,Good Rod,palpitoad,,
-Lilycove City,Super Rod,palpitoad,,
-Lilycove City,Super Rod,barraskewda,,
-Lilycove City,Super Rod,seismatoad,,
-Lilycove City,Surfing,wailmer,,
-Lilycove City,Surfing,tatsugiri,,
-Lilycove City,Surfing,wailord,,
-Route 124,Old Rod,mareanie,,
-Route 124,Old Rod,shellos,,
-Route 124,Good Rod,shellos,,
-Route 124,Good Rod,mareanie,,
-Route 124,Super Rod,gastrodon,,
-Route 124,Super Rod,toxapex,,
-Route 124,Surfing,binacle,,
-Route 124,Surfing,corphish,,
-Route 124,Surfing,clobbopus,,
-Route 124,Surfing,barbaracle,,
-Route 124,Surfing,crawdaunt,,
-Mossdeep City,Old Rod,corphish,,
-Mossdeep City,Old Rod,clauncher,,
-Mossdeep City,Good Rod,corphish,,
-Mossdeep City,Good Rod,clauncher,,
-Mossdeep City,Good Rod,clawitzer,,
-Mossdeep City,Super Rod,clawitzer,,
-Mossdeep City,Super Rod,crawdaunt,,
-Mossdeep City,Surfing,wingull,,
-Mossdeep City,Surfing,remoraid,,
-Mossdeep City,Surfing,octillery,,
-Mossdeep City,Surfing,pelipper,,
-Route 125,Old Rod,seel,,
-Route 125,Old Rod,spheal,,
-Route 125,Good Rod,seel,,
-Route 125,Good Rod,spheal,,
-Route 125,Good Rod,sealeo,,
-Route 125,Super Rod,sealeo,,
-Route 125,Super Rod,dewgong,,
-Route 125,Super Rod,walrein,,
-Route 125,Surfing,shellder,,
-Route 125,Surfing,cloyster,,
-Route 125,Surfing,lapras,,
+Route 121,Old Rod,Slowpoke,,
+Route 121,Old Rod,Slowpoke-Galar,,
+Route 121,Good Rod,Slowpoke,,
+Route 121,Good Rod,Slowpoke-Galar,,
+Route 121,Super Rod,Slowbro,,
+Route 121,Super Rod,Slowbro-Galar,,
+Route 121,Super Rod,Slowking,,
+Route 121,Super Rod,Slowking-Galar,,
+Route 121,Surfing,Frillish,,
+Route 121,Surfing,Jellicent,,
+Route 122,Old Rod,Carvanha,,
+Route 122,Old Rod,Grimer-Alola,,
+Route 122,Good Rod,Carvanha,,
+Route 122,Good Rod,Grimer-Alola,,
+Route 122,Super Rod,Sharpedo,,
+Route 122,Super Rod,Muk Alola,,
+Route 122,Surfing,Krabby,,
+Route 122,Surfing,Kingler,,
+Route 123,Old Rod,Staryu,,
+Route 123,Old Rod,Wooper-Paldean,,
+Route 123,Good Rod,Staryu,,
+Route 123,Good Rod,Wooper-Paldean,,
+Route 123,Super Rod,Starmie,,
+Route 123,Super Rod,Clodsire,,
+Route 123,Surfing,Surskit,,
+Route 123,Surfing,Masquerain,,
+Lilycove City,Old Rod,Arrokuda,,
+Lilycove City,Old Rod,Tympole,,
+Lilycove City,Good Rod,Tympole,,
+Lilycove City,Good Rod,Arrokuda,,
+Lilycove City,Good Rod,Palpitoad,,
+Lilycove City,Super Rod,Palpitoad,,
+Lilycove City,Super Rod,Barraskewda,,
+Lilycove City,Super Rod,Seismatoad,,
+Lilycove City,Surfing,Wailmer,,
+Lilycove City,Surfing,Tatsugiri,,
+Lilycove City,Surfing,Wailord,,
+Route 124,Old Rod,Mareanie,,
+Route 124,Old Rod,Shellos,,
+Route 124,Good Rod,Shellos,,
+Route 124,Good Rod,Mareanie,,
+Route 124,Super Rod,Gastrodon,,
+Route 124,Super Rod,Toxapex,,
+Route 124,Surfing,Binacle,,
+Route 124,Surfing,Corphish,,
+Route 124,Surfing,Clobbopus,,
+Route 124,Surfing,Barbaracle,,
+Route 124,Surfing,Crawdaunt,,
+Mossdeep City,Old Rod,Corphish,,
+Mossdeep City,Old Rod,Clauncher,,
+Mossdeep City,Good Rod,Corphish,,
+Mossdeep City,Good Rod,Clauncher,,
+Mossdeep City,Good Rod,Clawitzer,,
+Mossdeep City,Super Rod,Clawitzer,,
+Mossdeep City,Super Rod,Crawdaunt,,
+Mossdeep City,Surfing,Wingull,,
+Mossdeep City,Surfing,Remoraid,,
+Mossdeep City,Surfing,Octillery,,
+Mossdeep City,Surfing,Pelipper,,
+Route 125,Old Rod,Seel,,
+Route 125,Old Rod,Spheal,,
+Route 125,Good Rod,Seel,,
+Route 125,Good Rod,Spheal,,
+Route 125,Good Rod,Sealeo,,
+Route 125,Super Rod,Sealeo,,
+Route 125,Super Rod,Dewgong,,
+Route 125,Super Rod,Walrein,,
+Route 125,Surfing,Shellder,,
+Route 125,Surfing,Cloyster,,
+Route 125,Surfing,Lapras,,
 Shoal Cave,Old Rod,Relicanth,,
 Shoal Cave,Good Rod,Relicanth,,
 Shoal Cave,Super Rod,Relicanth,,
 Shoal Cave,Surfing,Relicanth,,
-Route 126,Old Rod,magikarp,,
-Route 126,Old Rod,tentacool,,
-Route 126,Good Rod,magikarp,,
-Route 126,Good Rod,tentacool,,
-Route 126,Good Rod,wailmer,,
-Route 126,Super Rod,tentacruel,,
-Route 126,Super Rod,gyarados,,
-Route 126,Super Rod,wailord,,
-Route 126,Surfing,luvdisc,,
-Route 126,Surfing,mantyke,,
-Route 126,Surfing,mantine,,
-Route 127,Old Rod,buizel,,
-Route 127,Old Rod,finneon,,
-Route 127,Good Rod,buizel,,
-Route 127,Good Rod,finneon,,
-Route 127,Super Rod,floatzel,,
-Route 127,Super Rod,lumineon,,
-Route 127,Surfing,corsola,,
-Route 127,Surfing,veluza,,
-Route 127,Surfing,bruxish,,
-Route 128,Old Rod,binacle,,
-Route 128,Old Rod,basculin,,
-Route 128,Good Rod,basculin,,
-Route 128,Good Rod,binacle,,
-Route 128,Super Rod,barbaracle,,
-Route 128,Super Rod,basculegion,,
-Route 128,Super Rod,basculin,,
-Route 128,Surfing,staryu,,
-Route 128,Surfing,marill,,
-Route 128,Surfing,azumarill,,
-Route 128,Surfing,starmie,,
-Route 129,Old Rod,krabby,,
-Route 129,Old Rod,goldeen,,
-Route 129,Good Rod,krabby,,
-Route 129,Good Rod,goldeen,,
-Route 129,Good Rod,seaking,,
-Route 129,Super Rod,seaking,,
-Route 129,Super Rod,kingler,,
-Route 129,Surfing,psyduck,,
-Route 129,Surfing,finizen,,
-Route 129,Surfing,golduck,,
-Route 129,Surfing,palafin,,
-Route 129,Surfing,iron bundle,,
-Evergrande City,Old Rod,skrelp,,
-Evergrande City,Old Rod,qwilfish-hisui,,
-Evergrande City,Good Rod,skrelp,,
-Evergrande City,Good Rod,qwilfish-hisui,,
-Evergrande City,Super Rod,qwilfish-hisui,,
-Evergrande City,Super Rod,overqwil,,
-Evergrande City,Super Rod,dragalge,,
-Evergrande City,Surfing,skrelp,,
-Evergrande City,Surfing,chewtle,,
-Evergrande City,Surfing,drednaw,,
-Route 130,Old Rod,psyduck,,
-Route 130,Old Rod,carvanha,,
-Route 130,Good Rod,psyduck,,
-Route 130,Good Rod,carvanha,,
-Route 130,Super Rod,sharpedo,,
-Route 130,Super Rod,golduck,,
-Route 130,Super Rod,phione,,
-Route 130,Surfing,ducklett,,
-Route 130,Surfing,poliwag,,
-Route 130,Surfing,swanna,,
-Route 131,Old Rod,frillish,,
-Route 131,Old Rod,pincurchin,,
-Route 131,Good Rod,frillish,,
-Route 131,Good Rod,pincurchin,,
-Route 131,Good Rod,pincurchin,,
-Route 131,Super Rod,jellicent,,
-Route 131,Super Rod,jellicent,,
-Route 131,Super Rod,jellicent,,
-Route 131,Super Rod,wishiwashi,,
-Route 131,Super Rod,phione,,
-Route 131,Surfing,shellos,,
-Route 131,Surfing,wingull,,
-Route 131,Surfing,wingull,,
-Route 131,Surfing,pelipper,,
-Route 131,Surfing,pelipper,,
-Pacifidlog Town,Old Rod,lotad,,
-Pacifidlog Town,Old Rod,horsea,,
-Pacifidlog Town,Good Rod,lotad,,
-Pacifidlog Town,Good Rod,horsea,,
-Pacifidlog Town,Good Rod,lombre,,
-Pacifidlog Town,Super Rod,seadra,,
-Pacifidlog Town,Super Rod,ludicolo,,
-Pacifidlog Town,Super Rod,kingdra,,
-Pacifidlog Town,Surfing,dewpider,,
-Pacifidlog Town,Surfing,wimpod,,
-Pacifidlog Town,Surfing,golisopod,,
-Pacifidlog Town,Surfing,araquanid,,
-Victory Road,Old Rod,tympole,,
-Victory Road,Old Rod,wimpod,,
-Victory Road,Good Rod,tympole,,
-Victory Road,Good Rod,wimpod,,
-Victory Road,Good Rod,palpitoad,,
-Victory Road,Super Rod,palpitoad,,
-Victory Road,Super Rod,golisopod,,
-Victory Road,Super Rod,seismitoad,,
-Victory Road,Surfing,crobat,,
-Victory Road,Surfing,braviary-hisui,,
-Route 132,Old Rod,magikarp,,
-Route 132,Old Rod,mareanie,,
-Route 132,Good Rod,mareanie,,
-Route 132,Good Rod,qwilfish,,
-Route 132,Super Rod,gyarados,,
-Route 132,Super Rod,toxapex,,
-Route 132,Super Rod,manaphy,,
-Route 132,Surfing,pidgey,,
-Route 132,Surfing,surskit,,
-Route 132,Surfing,masquerain,,
-Route 132,Surfing,pidgeotto,,
-Route 133,Old Rod,wailmer,,
-Route 133,Old Rod,barboach,,
-Route 133,Good Rod,barboach,,
-Route 133,Good Rod,wailmer,,
-Route 133,Good Rod,whiscash,,
-Route 133,Super Rod,whiscash,,
-Route 133,Super Rod,wailord,,
-Route 133,Super Rod,manaphy,,
-Route 133,Surfing,buizel,,
-Route 133,Surfing,finizen,,
-Route 133,Surfing,floatzel,,
-Route 134,Old Rod,horsea,,
-Route 134,Old Rod,corphish,,
-Route 134,Good Rod,horsea,,
-Route 134,Good Rod,corphish,,
-Route 134,Good Rod,seadra,,
-Route 134,Super Rod,crawdaunt,,
-Route 134,Super Rod,seadra,,
-Route 134,Super Rod,kingdra,,
-Route 134,Surfing,tentacool,,
-Route 134,Surfing,wingull,,
-Route 134,Surfing,tentacruel,,
-Sootopolis City,Old Rod,magikarp,,
-Sootopolis City,Good Rod,magikarp,,
-Sootopolis City,Super Rod,magikarp,,
-Sootopolis City,Surfing,magikarp,,
-Seafloor Cavern,Old Rod,spheal,,
-Seafloor Cavern,Old Rod,corsola-galar,,
-Seafloor Cavern,Good Rod,spheal,,
-Seafloor Cavern,Good Rod,corsola-galar,,
-Seafloor Cavern,Super Rod,sealeo,,
-Seafloor Cavern,Super Rod,walrein,,
-Seafloor Cavern,Super Rod,cursola,,
-Seafloor Cavern,Surfing,carvanha,,
-Seafloor Cavern,Surfing,clamperl,,
-Seafloor Cavern,Surfing,sharpedo,,
-Seafloor Cavern,Surfing,huntail,,
-Seafloor Cavern,Surfing,gorebyss,,
+Route 126,Old Rod,Magikarp,,
+Route 126,Old Rod,Tentacool,,
+Route 126,Good Rod,Magikarp,,
+Route 126,Good Rod,Tentacool,,
+Route 126,Good Rod,Wailmer,,
+Route 126,Super Rod,Tentacruel,,
+Route 126,Super Rod,Gyarados,,
+Route 126,Super Rod,Wailord,,
+Route 126,Surfing,Luvdisc,,
+Route 126,Surfing,Mantyke,,
+Route 126,Surfing,Mantine,,
+Route 127,Old Rod,Buizel,,
+Route 127,Old Rod,Finneon,,
+Route 127,Good Rod,Buizel,,
+Route 127,Good Rod,Finneon,,
+Route 127,Super Rod,Floatzel,,
+Route 127,Super Rod,Lumineon,,
+Route 127,Surfing,Corsola,,
+Route 127,Surfing,Veluza,,
+Route 127,Surfing,Bruxish,,
+Route 128,Old Rod,Binacle,,
+Route 128,Old Rod,Basculin,,
+Route 128,Good Rod,Basculin,,
+Route 128,Good Rod,Binacle,,
+Route 128,Super Rod,Barbaracle,,
+Route 128,Super Rod,Basculegion,,
+Route 128,Super Rod,Basculin,,
+Route 128,Surfing,Staryu,,
+Route 128,Surfing,Marill,,
+Route 128,Surfing,Azumarill,,
+Route 128,Surfing,Starmie,,
+Route 129,Old Rod,Krabby,,
+Route 129,Old Rod,Goldeen,,
+Route 129,Good Rod,Krabby,,
+Route 129,Good Rod,Goldeen,,
+Route 129,Good Rod,Seaking,,
+Route 129,Super Rod,Seaking,,
+Route 129,Super Rod,Kingler,,
+Route 129,Surfing,Psyduck,,
+Route 129,Surfing,Finizen,,
+Route 129,Surfing,Golduck,,
+Route 129,Surfing,Palafin,,
+Route 129,Surfing,Iron Bundle,,
+Evergrande City,Old Rod,Skrelp,,
+Evergrande City,Old Rod,Qwilfish-Hisui,,
+Evergrande City,Good Rod,Skrelp,,
+Evergrande City,Good Rod,Qwilfish-Hisui,,
+Evergrande City,Super Rod,Qwilfish-Hisui,,
+Evergrande City,Super Rod,Overqwil,,
+Evergrande City,Super Rod,Dragalge,,
+Evergrande City,Surfing,Skrelp,,
+Evergrande City,Surfing,Chewtle,,
+Evergrande City,Surfing,Drednaw,,
+Route 130,Old Rod,Psyduck,,
+Route 130,Old Rod,Carvanha,,
+Route 130,Good Rod,Psyduck,,
+Route 130,Good Rod,Carvanha,,
+Route 130,Super Rod,Sharpedo,,
+Route 130,Super Rod,Golduck,,
+Route 130,Super Rod,Phione,,
+Route 130,Surfing,Ducklett,,
+Route 130,Surfing,Poliwag,,
+Route 130,Surfing,Swanna,,
+Route 131,Old Rod,Frillish,,
+Route 131,Old Rod,Pincurchin,,
+Route 131,Good Rod,Frillish,,
+Route 131,Good Rod,Pincurchin,,
+Route 131,Good Rod,Pincurchin,,
+Route 131,Super Rod,Jellicent,,
+Route 131,Super Rod,Jellicent,,
+Route 131,Super Rod,Jellicent,,
+Route 131,Super Rod,Wishiwashi,,
+Route 131,Super Rod,Phione,,
+Route 131,Surfing,Shellos,,
+Route 131,Surfing,Wingull,,
+Route 131,Surfing,Wingull,,
+Route 131,Surfing,Pelipper,,
+Route 131,Surfing,Pelipper,,
+Pacifidlog Town,Old Rod,Lotad,,
+Pacifidlog Town,Old Rod,Horsea,,
+Pacifidlog Town,Good Rod,Lotad,,
+Pacifidlog Town,Good Rod,Horsea,,
+Pacifidlog Town,Good Rod,Lombre,,
+Pacifidlog Town,Super Rod,Seadra,,
+Pacifidlog Town,Super Rod,Ludicolo,,
+Pacifidlog Town,Super Rod,Kingdra,,
+Pacifidlog Town,Surfing,Dewpider,,
+Pacifidlog Town,Surfing,Wimpod,,
+Pacifidlog Town,Surfing,Golisopod,,
+Pacifidlog Town,Surfing,Araquanid,,
+Victory Road,Old Rod,Tympole,,
+Victory Road,Old Rod,Wimpod,,
+Victory Road,Good Rod,Tympole,,
+Victory Road,Good Rod,Wimpod,,
+Victory Road,Good Rod,Palpitoad,,
+Victory Road,Super Rod,Palpitoad,,
+Victory Road,Super Rod,Golisopod,,
+Victory Road,Super Rod,Seismitoad,,
+Victory Road,Surfing,Crobat,,
+Victory Road,Surfing,Braviary-Hisui,,
+Route 132,Old Rod,Magikarp,,
+Route 132,Old Rod,Mareanie,,
+Route 132,Good Rod,Mareanie,,
+Route 132,Good Rod,Qwilfish,,
+Route 132,Super Rod,Gyarados,,
+Route 132,Super Rod,Toxapex,,
+Route 132,Super Rod,Manaphy,,
+Route 132,Surfing,Pidgey,,
+Route 132,Surfing,Surskit,,
+Route 132,Surfing,Masquerain,,
+Route 132,Surfing,Pidgeotto,,
+Route 133,Old Rod,Wailmer,,
+Route 133,Old Rod,Barboach,,
+Route 133,Good Rod,Barboach,,
+Route 133,Good Rod,Wailmer,,
+Route 133,Good Rod,Whiscash,,
+Route 133,Super Rod,Whiscash,,
+Route 133,Super Rod,Wailord,,
+Route 133,Super Rod,Manaphy,,
+Route 133,Surfing,Buizel,,
+Route 133,Surfing,Finizen,,
+Route 133,Surfing,Floatzel,,
+Route 134,Old Rod,Horsea,,
+Route 134,Old Rod,Corphish,,
+Route 134,Good Rod,Horsea,,
+Route 134,Good Rod,Corphish,,
+Route 134,Good Rod,Seadra,,
+Route 134,Super Rod,Crawdaunt,,
+Route 134,Super Rod,Seadra,,
+Route 134,Super Rod,Kingdra,,
+Route 134,Surfing,Tentacool,,
+Route 134,Surfing,Wingull,,
+Route 134,Surfing,Tentacruel,,
+Sootopolis City,Old Rod,Magikarp,,
+Sootopolis City,Good Rod,Magikarp,,
+Sootopolis City,Super Rod,Magikarp,,
+Sootopolis City,Surfing,Magikarp,,
+Seafloor Cavern,Old Rod,Spheal,,
+Seafloor Cavern,Old Rod,Corsola-Galar,,
+Seafloor Cavern,Good Rod,Spheal,,
+Seafloor Cavern,Good Rod,Corsola-Galar,,
+Seafloor Cavern,Super Rod,Sealeo,,
+Seafloor Cavern,Super Rod,Walrein,,
+Seafloor Cavern,Super Rod,Cursola,,
+Seafloor Cavern,Surfing,Carvanha,,
+Seafloor Cavern,Surfing,Clamperl,,
+Seafloor Cavern,Surfing,Sharpedo,,
+Seafloor Cavern,Surfing,Huntail,,
+Seafloor Cavern,Surfing,Gorebyss,,
 Grassy Slab,Surfing,Noibat,,
 Grassy Slab,Surfing,Horsea,,
 Grassy Slab,Surfing,Seadra,,
@@ -1305,12 +1305,12 @@ Scorched Slab,Surfing,Golbat,,
 Floating Slab,Surfing,Mantyke,,
 Floating Slab,Surfing,Pincurchun,,
 Floating Slab,Surfing,Mantine,,
-Route 124 Underwater,Surfing,clamperl,,
-Route 124 Underwater,Surfing,huntail,,
-Route 124 Underwater,Surfing,gorebyss,,
-Route 126 Underwater,Surfing,chinchou,,
-Route 126 Underwater,Surfing,lanturn,,
-Route 126 Underwater,Surfing,relicanth,,
+Route 124 Underwater,Surfing,Clamperl,,
+Route 124 Underwater,Surfing,Huntail,,
+Route 124 Underwater,Surfing,Gorebyss,,
+Route 126 Underwater,Surfing,Chinchou,,
+Route 126 Underwater,Surfing,Lanturn,,
+Route 126 Underwater,Surfing,Relicanth,,
 Rustboro City,Egg,Togepi,,
 Route 111,Egg,Riolu,,
 Fallarbour Town,Egg,Bulbasaur,,
@@ -1359,109 +1359,109 @@ Evergrande City,Gift,Kubfu,,
 Rustboro City,Trade,Mime Jr.,,
 Fortree City,Trade,Fidough,,
 Pacifidlog Town,Trade,Iron Bundle,,
-Safari Southwest,Grass,delibird,40,45
-Safari Southwest,Grass,smeargle,40,45
-Safari Southwest,Grass,mr mime galarian,40,45
-Safari Southwest,Grass,mr mime ,40,45
-Safari Southwest,Grass,arcanine,40,45
-Safari Southwest,Grass,arcanine hisui,40,45
-Safari Southwest,Grass,magmar,40,45
-Safari Southwest,Grass,ursaring,40,45
-Safari Southwest,Grass,passimian,40,45
-Safari Southwest,Grass,lilligant hisui,40,45
-Safari Southwest,Grass,guzzlord,40,45
-Safari Southwest,Grass,munkidori,40,45
-Safari South,Grass,lickitung,40,45
-Safari South,Grass,tauros,40,45
-Safari South,Grass,tauros-combat,40,45
-Safari South,Grass,tauros-aqua,40,45
-Safari South,Grass,tauros-blaze,40,45
-Safari South,Grass,igglybuff,40,45
-Safari South,Grass,cleffa,40,45
-Safari South,Grass,pichu,40,45
-Safari South,Grass,happiny,40,45
-Safari South,Grass,chansey,40,45
-Safari South,Grass,elekid,40,45
-Safari South,Grass,poipole,40,45
-Safari Southeast,Grass,gliscor,40,45
-Safari Southeast,Grass,morgrem,40,45
-Safari Southeast,Grass,kilowattrel,40,45
-Safari Southeast,Grass,fraxure,40,45
-Safari Southeast,Grass,kadabra,40,45
-Safari Southeast,Grass,gimmighoul,40,45
-Safari Southeast,Grass,ninetales,40,45
-Safari Southeast,Grass,ninetales alola,40,45
-Safari Southeast,Grass,exeggutor,40,45
-Safari Southeast,Grass,exeggutor alola,40,45
-Safari Southeast,Grass,celesteela,40,45
-Safari Southeast,Grass,stakataka,40,45
-Safari Northwest,Grass,heatmor,40,45
-Safari Northwest,Grass,naclstack,40,45
-Safari Northwest,Grass,nosepass,40,45
-Safari Northwest,Grass,cyclizar,40,45
-Safari Northwest,Grass,piloswine,40,45
-Safari Northwest,Grass,farfetchd galar,40,45
-Safari Northwest,Grass,ferrothorn,40,45
-Safari Northwest,Grass,oranguru,40,45
-Safari Northwest,Grass,vullaby,40,45
-Safari Northwest,Grass,amoonguss,40,45
-Safari Northwest,Grass,ogerpon,40,45
-Safari Northwest,Grass,ogerpon,40,45
-Safari North,Grass,donphan,40,45
-Safari North,Grass,noivern,40,45
-Safari North,Grass,beartic,40,45
-Safari North,Grass,mienshao,40,45
-Safari North,Grass,shiinotic,40,45
-Safari North,Grass,toedscruel,40,45
-Safari North,Grass,gothorita,40,45
-Safari North,Grass,lilligant,40,45
-Safari North,Grass,togetic,40,45
-Safari North,Grass,snorlax,40,45
-Safari North,Grass,duraldon,40,45
-Safari North,Grass,okidogi,40,45
-Safari North,Rocksmash,geodude alolan,40,45
-Safari North,Rocksmash,graveler alolan,40,45
-Safari Northeast,Grass,ambipom,40,45
-Safari Northeast,Grass,darmanitan,40,45
-Safari Northeast,Grass,darmanitan-galar,40,45
-Safari Northeast,Grass,avalugg,40,45
-Safari Northeast,Grass,avalugg-hisui,40,45
-Safari Northeast,Grass,lairon,40,45
-Safari Northeast,Grass,boldore,40,45
-Safari Northeast,Grass,varoom,40,45
-Safari Northeast,Grass,houndoom,40,45
-Safari Northeast,Grass,drednaw,40,45
-Safari Northeast,Grass,shelgon,40,45
-Safari Northeast,Grass,fezandipiti,40,45
-Safari Northeast,Rocksmash,bonsly,40,45
-Safari Northeast,Rocksmash,shuckle,40,45
-Safai Southwest,Old Rod,lotad,40,45
-Safai Southwest,Old Rod,mantyke,40,45
-Safai Southwest,Good Rod,lotad,40,45
-Safai Southwest,Good Rod,mantyke,40,45
-Safai Southwest,Super Rod,lombre,40,45
-Safai Southwest,Super Rod,mantine,40,45
-Safai Southwest,Super Rod,ludicolo,40,45
-Safai Southwest,Surfing,psyduck,40,45
-Safai Southwest,Surfing,golduck,40,45
-Safari Southeast,Old Rod,staryu,40,45
-Safari Southeast,Old Rod,corsola-galar,40,45
-Safari Southeast,Good Rod,staryu,40,45
-Safari Southeast,Good Rod,corsola-galar,40,45
-Safari Southeast,Good Rod,starmie,40,45
-Safari Southeast,Super Rod,starmie,40,45
-Safari Southeast,Super Rod,cursola,40,45
-Safari Southeast,Surfing,relicanth,40,45
-Safari Southeast,Surfing,dondozo,40,45
-Safari Southeast,Surfing,poliwhirl,40,45
-Safari Southeast,Surfing,wailord,40,45
-Safari Southeast,Surfing,wishiwashi,40,45
-Safari Northwest,Old Rod,wiglett,40,45
-Safari Northwest,Old Rod,finizen,40,45
-Safari Northwest,Good Rod,wiglett,40,45
-Safari Northwest,Good Rod,finizen,40,45
-Safari Northwest,Good Rod,wugtrio,40,45
-Safari Northwest,Super Rod,wugtrio,40,45
-Safari Northwest,Super Rod,finizen,40,45
-Safari Northwest,Surfing,feebas,40,45
+Safari Southwest,Grass,Delibird,40,45
+Safari Southwest,Grass,Smeargle,40,45
+Safari Southwest,Grass,Mr Mime Galarian,40,45
+Safari Southwest,Grass,Mr Mime,40,45
+Safari Southwest,Grass,Arcanine,40,45
+Safari Southwest,Grass,Arcanine Hisui,40,45
+Safari Southwest,Grass,Magmar,40,45
+Safari Southwest,Grass,Ursaring,40,45
+Safari Southwest,Grass,Passimian,40,45
+Safari Southwest,Grass,Lilligant Hisui,40,45
+Safari Southwest,Grass,Guzzlord,40,45
+Safari Southwest,Grass,Munkidori,40,45
+Safari South,Grass,Lickitung,40,45
+Safari South,Grass,Tauros,40,45
+Safari South,Grass,Tauros-Combat,40,45
+Safari South,Grass,Tauros-Aqua,40,45
+Safari South,Grass,Tauros-Blaze,40,45
+Safari South,Grass,Igglybuff,40,45
+Safari South,Grass,Cleffa,40,45
+Safari South,Grass,Pichu,40,45
+Safari South,Grass,Happiny,40,45
+Safari South,Grass,Chansey,40,45
+Safari South,Grass,Elekid,40,45
+Safari South,Grass,Poipole,40,45
+Safari Southeast,Grass,Gliscor,40,45
+Safari Southeast,Grass,Morgrem,40,45
+Safari Southeast,Grass,Kilowattrel,40,45
+Safari Southeast,Grass,Fraxure,40,45
+Safari Southeast,Grass,Kadabra,40,45
+Safari Southeast,Grass,Gimmighoul,40,45
+Safari Southeast,Grass,Ninetales,40,45
+Safari Southeast,Grass,Ninetales Alola,40,45
+Safari Southeast,Grass,Exeggutor,40,45
+Safari Southeast,Grass,Exeggutor Alola,40,45
+Safari Southeast,Grass,Celesteela,40,45
+Safari Southeast,Grass,Stakataka,40,45
+Safari Northwest,Grass,Heatmor,40,45
+Safari Northwest,Grass,Naclstack,40,45
+Safari Northwest,Grass,Nosepass,40,45
+Safari Northwest,Grass,Cyclizar,40,45
+Safari Northwest,Grass,Piloswine,40,45
+Safari Northwest,Grass,Farfetchd Galar,40,45
+Safari Northwest,Grass,Ferrothorn,40,45
+Safari Northwest,Grass,Oranguru,40,45
+Safari Northwest,Grass,Vullaby,40,45
+Safari Northwest,Grass,Amoonguss,40,45
+Safari Northwest,Grass,Ogerpon,40,45
+Safari Northwest,Grass,Ogerpon,40,45
+Safari North,Grass,Donphan,40,45
+Safari North,Grass,Noivern,40,45
+Safari North,Grass,Beartic,40,45
+Safari North,Grass,Mienshao,40,45
+Safari North,Grass,Shiinotic,40,45
+Safari North,Grass,Toedscruel,40,45
+Safari North,Grass,Gothorita,40,45
+Safari North,Grass,Lilligant,40,45
+Safari North,Grass,Togetic,40,45
+Safari North,Grass,Snorlax,40,45
+Safari North,Grass,Duraldon,40,45
+Safari North,Grass,Okidogi,40,45
+Safari North,Rocksmash,Geodude Alolan,40,45
+Safari North,Rocksmash,Graveler Alolan,40,45
+Safari Northeast,Grass,Ambipom,40,45
+Safari Northeast,Grass,Darmanitan,40,45
+Safari Northeast,Grass,Darmanitan-Galar,40,45
+Safari Northeast,Grass,Avalugg,40,45
+Safari Northeast,Grass,Avalugg-Hisui,40,45
+Safari Northeast,Grass,Lairon,40,45
+Safari Northeast,Grass,Boldore,40,45
+Safari Northeast,Grass,Varoom,40,45
+Safari Northeast,Grass,Houndoom,40,45
+Safari Northeast,Grass,Drednaw,40,45
+Safari Northeast,Grass,Shelgon,40,45
+Safari Northeast,Grass,Fezandipiti,40,45
+Safari Northeast,Rocksmash,Bonsly,40,45
+Safari Northeast,Rocksmash,Shuckle,40,45
+Safai Southwest,Old Rod,Lotad,40,45
+Safai Southwest,Old Rod,Mantyke,40,45
+Safai Southwest,Good Rod,Lotad,40,45
+Safai Southwest,Good Rod,Mantyke,40,45
+Safai Southwest,Super Rod,Lombre,40,45
+Safai Southwest,Super Rod,Mantine,40,45
+Safai Southwest,Super Rod,Ludicolo,40,45
+Safai Southwest,Surfing,Psyduck,40,45
+Safai Southwest,Surfing,Golduck,40,45
+Safari Southeast,Old Rod,Staryu,40,45
+Safari Southeast,Old Rod,Corsola-Galar,40,45
+Safari Southeast,Good Rod,Staryu,40,45
+Safari Southeast,Good Rod,Corsola-Galar,40,45
+Safari Southeast,Good Rod,Starmie,40,45
+Safari Southeast,Super Rod,Starmie,40,45
+Safari Southeast,Super Rod,Cursola,40,45
+Safari Southeast,Surfing,Relicanth,40,45
+Safari Southeast,Surfing,Dondozo,40,45
+Safari Southeast,Surfing,Poliwhirl,40,45
+Safari Southeast,Surfing,Wailord,40,45
+Safari Southeast,Surfing,Wishiwashi,40,45
+Safari Northwest,Old Rod,Wiglett,40,45
+Safari Northwest,Old Rod,Finizen,40,45
+Safari Northwest,Good Rod,Wiglett,40,45
+Safari Northwest,Good Rod,Finizen,40,45
+Safari Northwest,Good Rod,Wugtrio,40,45
+Safari Northwest,Super Rod,Wugtrio,40,45
+Safari Northwest,Super Rod,Finizen,40,45
+Safari Northwest,Surfing,Feebas,40,45
 Safari Northwest,Surfing,Alomomola,40,45
