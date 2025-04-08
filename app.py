@@ -103,7 +103,7 @@ method_colors = {
 }
 
 def render_tag(content, color):
-    return f"<span style='background:{color}; color:#fff; padding:3px 10px; border-radius:10px; font-size:0.85em;'>{content}</span>"
+    return f"<span style='background:{color}; color:#fff; padding:3px 10px; border-radius:10px; font-size:0.85em; white-space:nowrap;'>{content}</span>"
 
 def render_gray_tag(content):
     return render_tag(content, '#555')
@@ -128,10 +128,10 @@ else:
                     method_tag = render_tag(loc['Method'], method_colors.get(loc['Method'], '#888'))
                     level_tag = render_gray_tag(f"Level {int(loc['Min Level'])}–{int(loc['Max Level'])}")
                     block = f"""
-                        <div style='display:flex; justify-content:space-between; align-items:center; gap:6px; margin-bottom:6px;'>
-                            <div style='flex:1; text-align:left;'>{area_tag}</div>
-                            <div style='flex:1; text-align:center;'>{method_tag}</div>
-                            <div style='flex:1; text-align:right;'>{level_tag}</div>
+                        <div style='display: grid; grid-template-columns: 1fr 1fr 1fr; align-items: center; margin-bottom: 6px;'>
+                            <div style='text-align: left;'>{area_tag}</div>
+                            <div style='text-align: center;'>{method_tag}</div>
+                            <div style='text-align: right;'>{level_tag}</div>
                         </div>
                     """
                     tag_blocks.append(block)
