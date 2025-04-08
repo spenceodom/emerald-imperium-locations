@@ -82,8 +82,6 @@ if gen_filter:
     filtered_pokemon = filtered_pokemon[filtered_pokemon["Generation"].isin(gen_filter)]
 if selected_pokemon != "All":
     filtered_pokemon = filtered_pokemon[filtered_pokemon["Name"] == selected_pokemon]
-    if selected_pokemon != "All":
-    filtered_pokemon = filtered_pokemon[filtered_pokemon["Name"] == selected_pokemon]
 
 # Remove duplicate Pokémon entries by Name + Form
 filtered_pokemon = (
@@ -97,12 +95,6 @@ filtered_pokemon = filtered_pokemon[
     filtered_pokemon["Name"].str.strip().str.lower().isin(normalized_location_names)
 ]
 
-
-
-# Now cross-reference only Pokémon that exist in the filtered location data
-filtered_pokemon = filtered_pokemon[
-    filtered_pokemon["Name"].str.strip().str.lower().isin(normalized_location_names)
-]
 
 # Display results
 st.subheader("Filtered Pokémon and Encounter Locations")
