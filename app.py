@@ -35,6 +35,10 @@ def load_data():
 
 pokemon_df, location_df = load_data()
 
+# Remove Mega Evolutions from results
+pokemon_df = pokemon_df[~pokemon_df["Form"].str.lower().str.contains("mega", na=False)]
+
+
 st.title("Emerald Imperium Pokémon Locations")
 
 # Layout: Filters in columns
