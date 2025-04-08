@@ -126,11 +126,11 @@ else:
                 for _, loc in locs.iterrows():
                     area_tag = render_gray_tag(loc['Area'])
                     method_tag = render_tag(loc['Method'], method_colors.get(loc['Method'], '#888'))
-                    level_tag = render_gray_tag(f"Level {loc['Min Level']}–{loc['Max Level']}")
+                    level_tag = render_gray_tag(f"Level {int(loc['Min Level'])}–{int(loc['Max Level'])}")
                     tag_html += f"<div style='margin-bottom:4px;'>{area_tag} {method_tag} {level_tag}</div>"
 
                 bubble_content = f"""
-                <div style='background-color:#1e1e1e; border:1px solid #444; padding:15px; border-radius:10px;'>
+                <div style='background-color:#1e1e1e; border:1px solid #444; padding:15px; border-radius:10px; margin-bottom:20px;'>
                     <h4 style='margin-bottom:10px;'>{row['Name']}</h4>
                     {tag_html}
                 </div>
