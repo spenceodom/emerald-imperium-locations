@@ -91,6 +91,23 @@ filtered_pokemon = filtered_pokemon[
 # Display results
 st.subheader("Filtered Pokémon and Encounter Locations")
 
+# Tag color mapping
+method_colors = {
+    "Grass": "#4CAF50",
+    "Old Rod": "#FFD700",
+    "Good Rod": "#20B2AA",
+    "Super Rod": "#9370DB",
+    "Surfing": "#1E90FF",
+    "Cave": "#D2B48C",
+    "Dungeon": "#B22222"
+}
+
+def render_tag(content, color):
+    return f"<span style='display:inline-block; background:{color}; color:#fff; padding:3px 10px; border-radius:10px; margin:2px; font-size:0.85em;'>{content}</span>"
+
+def render_gray_tag(content):
+    return render_tag(content, '#555')
+
 if filtered_pokemon.empty:
     st.write("No Pokémon match your filters.")
 else:
@@ -105,13 +122,17 @@ else:
                     filtered_locations["Pokémon"].str.strip().str.lower() == row["Name"].strip().lower()
                 ]
 
+                tag_html = ""
+                for _, loc in locs.iterrows():
+                    area_tag = render_gray_tag(loc['Area'])
+                    method_tag = render_tag(loc['Method'], method_colors.get(loc['Method'], '#888'))
+                    level_tag = render_gray_tag(f"Level {loc['Min Level']}–{loc['Max Level']}")
+                    tag_html += f"<div style='margin-bottom:4px;'>{area_tag} {method_tag} {level_tag}</div>"
+
                 bubble_content = f"""
                 <div style='background-color:#1e1e1e; border:1px solid #444; padding:15px; border-radius:10px;'>
                     <h4 style='margin-bottom:10px;'>{row['Name']}</h4>
+                    {tag_html}
+                </div>
                 """
-
-                for _, loc in locs.iterrows():
-                    bubble_content += f"<div style='margin-bottom:5px;'><code>{loc['Area']}</code> | <code>{loc['Method']}</code> | <code>Level {loc['Min Level']}–{loc['Max Level']}</code></div>"
-
-                bubble_content += "</div>"
                 st.markdown(bubble_content, unsafe_allow_html=True)
