@@ -103,7 +103,7 @@ method_colors = {
 }
 
 def render_tag(content, color):
-    return f"<span style='display:inline-block; background:{color}; color:#fff; padding:3px 10px; border-radius:10px; margin:2px; font-size:0.85em;'>{content}</span>"
+    return f"<span style='display:inline-block; background:{color}; color:#fff; padding:3px 10px; border-radius:10px; margin:4px; font-size:0.85em;'>{content}</span>"
 
 def render_gray_tag(content):
     return render_tag(content, '#555')
@@ -122,17 +122,18 @@ else:
                     filtered_locations["Pokémon"].str.strip().str.lower() == row["Name"].strip().lower()
                 ]
 
-                tag_html = ""
+                tag_blocks = []
                 for _, loc in locs.iterrows():
                     area_tag = render_gray_tag(loc['Area'])
                     method_tag = render_tag(loc['Method'], method_colors.get(loc['Method'], '#888'))
                     level_tag = render_gray_tag(f"Level {int(loc['Min Level'])}–{int(loc['Max Level'])}")
-                    tag_html += f"<div style='margin-bottom:4px;'>{area_tag} {method_tag} {level_tag}</div>"
+                    block = f"<div style='display:flex; flex-wrap:wrap; gap:6px; margin-bottom:6px;'>{area_tag}{method_tag}{level_tag}</div>"
+                    tag_blocks.append(block)
 
                 bubble_content = f"""
                 <div style='background-color:#1e1e1e; border:1px solid #444; padding:15px; border-radius:10px; margin-bottom:20px;'>
                     <h4 style='margin-bottom:10px;'>{row['Name']}</h4>
-                    {tag_html}
+                    {''.join(tag_blocks)}
                 </div>
                 """
                 st.markdown(bubble_content, unsafe_allow_html=True)
