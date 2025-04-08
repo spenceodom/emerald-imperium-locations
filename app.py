@@ -37,15 +37,6 @@ pokemon_df, location_df = load_data()
 
 st.title("Emerald Imperium Pokémon Locations")
 
-# Sidebar for stat filters
-st.sidebar.header("Stat Filters")
-hp_range = st.sidebar.slider("HP", 0, 255, (0, 255))
-attack_range = st.sidebar.slider("Attack", 0, 190, (0, 190))
-defense_range = st.sidebar.slider("Defense", 0, 230, (0, 230))
-spatk_range = st.sidebar.slider("Sp. Attack", 0, 194, (0, 194))
-spdef_range = st.sidebar.slider("Sp. Defense", 0, 230, (0, 230))
-speed_range = st.sidebar.slider("Speed", 0, 180, (0, 180))
-
 # Layout: Filters in columns
 col1, col2 = st.columns(2)
 
@@ -68,7 +59,9 @@ filtered_locations = location_df.copy()
 if selected_location != "All":
     filtered_locations = filtered_locations[filtered_locations["Area"] == selected_location]
 if method_filter:
-    filtered_locations = filtered_locations[filtered_locations["Method"].isin(method_filter)]
+    filtered_locations = filtered_locations[
+        filtered_locations["Method"].str.strip().isin([m.strip() for m in method_filter])
+    ]
 
 filtered_locations = filtered_locations[
     (filtered_locations["Min Level"] >= min_level) &
@@ -79,14 +72,7 @@ filtered_locations = filtered_locations[
 normalized_location_names = filtered_locations["Pokémon"].str.strip().str.lower().unique()
 
 # Filter Pokémon data
-filtered_pokemon = pokemon_df[
-    (pokemon_df["HP"].between(*hp_range)) &
-    (pokemon_df["Attack"].between(*attack_range)) &
-    (pokemon_df["Defense"].between(*defense_range)) &
-    (pokemon_df["Sp.Attack"].between(*spatk_range)) &
-    (pokemon_df["Sp.Defense"].between(*spdef_range)) &
-    (pokemon_df["Speed"].between(*speed_range))
-]
+filtered_pokemon = pokemon_df.copy()
 
 if type1_filter:
     filtered_pokemon = filtered_pokemon[filtered_pokemon["Type 1"].isin(type1_filter)]
@@ -115,27 +101,17 @@ else:
         cols = st.columns(len(chunk))
         for idx, (i, row) in enumerate(chunk.iterrows()):
             with cols[idx]:
-                with st.container():
-                    st.markdown(
-                        f"""
-                        <div style='background-color:#1e1e1e; border:1px solid #444; padding:15px; border-radius:10px;'>
-                        <h4 style='margin-bottom:10px;'>{row['Name']}</h4>
-                        <p style='margin-bottom:10px;'>
-                        <b>HP:</b> {row['HP']} | <b>Atk:</b> {row['Attack']} | <b>Def:</b> {row['Defense']}<br>
-                        <b>SpA:</b> {row['Sp.Attack']} | <b>SpD:</b> {row['Sp.Defense']} | <b>Spe:</b> {row['Speed']}
-                        </p>
-                    """,
-                        unsafe_allow_html=True
-                    )
+                locs = filtered_locations[
+                    filtered_locations["Pokémon"].str.strip().str.lower() == row["Name"].strip().lower()
+                ]
 
-                    locs = filtered_locations[
-                        filtered_locations["Pokémon"].str.strip().str.lower() == row["Name"].strip().lower()
-                    ]
+                bubble_content = f"""
+                <div style='background-color:#1e1e1e; border:1px solid #444; padding:15px; border-radius:10px;'>
+                    <h4 style='margin-bottom:10px;'>{row['Name']}</h4>
+                """
 
-                    for _, loc in locs.iterrows():
-                        st.markdown(
-                            f"<div style='margin-bottom:5px;'><code>{loc['Area']}</code> | <code>{loc['Method']}</code> | <code>Level {loc['Min Level']}–{loc['Max Level']}</code></div>",
-                            unsafe_allow_html=True
-                        )
+                for _, loc in locs.iterrows():
+                    bubble_content += f"<div style='margin-bottom:5px;'><code>{loc['Area']}</code> | <code>{loc['Method']}</code> | <code>Level {loc['Min Level']}–{loc['Max Level']}</code></div>"
 
-                    st.markdown("</div>", unsafe_allow_html=True)
+                bubble_content += "</div>"
+                st.markdown(bubble_content, unsafe_allow_html=True)
