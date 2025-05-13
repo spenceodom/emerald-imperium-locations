@@ -38,6 +38,32 @@ pokemon_df, location_df = load_data()
 # Remove Mega Evolutions from results
 pokemon_df = pokemon_df[~pokemon_df["Form"].str.lower().str.contains("mega", na=False)]
 
+# --- New Level Cap Data ---
+# Dictionary mapping display name to level cap value
+level_cap_data = {
+    "No Cap": 101, # Use a value > 100 to effectively disable the filter
+    "Pre Roxanne (Cap 15)": 15,
+    "Pre May (Rustboro) (Cap 20)": 20,
+    "Pre Brawley (Cap 25)": 25,
+    "Pre Ocean Museum (Cap 30)": 30,
+    "Pre May (Route 110) (Cap 32)": 32,
+    "Pre Wattson (Cap 34)": 34,
+    "Pre Maxie (Mt Chimney) (Cap 44)": 44,
+    "Pre Flannery (Cap 47)": 47,
+    "Pre Trick House (Cap 56)": 56,
+    "Pre Norman (Cap 59)": 59,
+    "Pre May (Route 119) (Cap 64)": 64,
+    "Pre Winona (Cap 68)": 68,
+    "Pre Dawn (Lilycove) (Cap 71)": 71, # Assuming Dawn is a character/trainer specific to the hack
+    "Pre Aqua Boss (Cap 74)": 74,
+    "Pre Tate and Liza (Cap 76)": 76,
+    "Pre Archie (Cap 80)": 80,
+    "Pre Juan (Cap 82)": 82,
+    "Pre Wally (Victory Road) (Cap 84)": 84,
+    "Pre Elite Four (Cap 85)": 85,
+}
+# --- End New Level Cap Data ---
+
 
 st.title("Emerald Imperium Pokémon Locations")
 
@@ -56,6 +82,12 @@ with col2:
     selected_location = st.selectbox("Location", ["All"] + sorted(location_df["Area"].unique().tolist()))
     method_filter = st.multiselect("Method", sorted(location_df["Method"].dropna().unique()))
     min_level, max_level = st.slider("Level Range", 1, 100, (1, 100))
+    # --- New Level Cap Filter UI ---
+    selected_level_cap_key = st.selectbox("Level Cap", list(level_cap_data.keys()))
+    # Get the actual cap value based on the selected key
+    current_level_cap = level_cap_data[selected_level_cap_key]
+    # --- End New Level Cap Filter UI ---
+
 
 # Filter location data first to use in filtering Pokémon
 filtered_locations = location_df.copy()
@@ -67,10 +99,18 @@ if method_filter:
         filtered_locations["Method"].str.strip().isin([m.strip() for m in method_filter])
     ]
 
+# Apply Level Range filter
 filtered_locations = filtered_locations[
     (filtered_locations["Min Level"] >= min_level) &
     (filtered_locations["Max Level"] <= max_level)
 ]
+
+# --- Apply New Level Cap Filter ---
+# Only show encounters where the maximum level is within the current level cap
+filtered_locations = filtered_locations[
+    filtered_locations["Max Level"] <= current_level_cap
+]
+# --- End New Level Cap Filter ---
 
 # Normalize name for filtering
 normalized_location_names = filtered_locations["Pokémon"].str.strip().str.lower().unique()
@@ -130,15 +170,18 @@ else:
         cols = st.columns(len(chunk))
         for idx, (i, row) in enumerate(chunk.iterrows()):
             with cols[idx]:
+                # Find relevant locations for this specific Pokémon from the *already filtered* location data
                 locs = filtered_locations[
                     filtered_locations["Pokémon"].str.strip().str.lower() == row["Name"].strip().lower()
                 ]
 
                 tag_blocks = []
+                # Only display locations that are still relevant after all location filters
                 for _, loc in locs.iterrows():
                     area_tag = render_gray_tag(loc['Area'])
                     method_tag = render_tag(loc['Method'], method_colors.get(loc['Method'], '#888'))
                     level_tag = render_gray_tag(f"Level {int(loc['Min Level'])}–{int(loc['Max Level'])}")
+                    # We might want to highlight if the max level is exactly the cap? Optional.
                     block = f"<div style='display:flex; flex-wrap:wrap; gap:6px; margin-bottom:6px;'>{area_tag}{method_tag}{level_tag}</div>"
                     tag_blocks.append(block)
 
