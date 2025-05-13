@@ -3,13 +3,93 @@ import pandas as pd
 
 st.set_page_config(page_title="Emerald Imperium Locations", layout="wide")
 
+# --- Global CSS Styles ---
+st.markdown("""
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+    body {
+        font-family: 'Roboto', sans-serif;
+        /* background-color: #121212; */ /* Uncomment if not using Streamlit's dark theme & want a dark page */
+        color: #E0E0E0; /* Default text color for better readability on dark backgrounds */
+    }
+
+    /* Style Streamlit's main block for consistency if needed */
+    /* .main .block-container {
+        background-color: #1a1a1a;
+        border-radius: 10px;
+        padding: 2rem;
+    } */
+
+    h1, h2, h3, h4, h5, h6 {
+        color: #FAFAFA; /* Lighter headings for dark backgrounds */
+    }
+    
+    /* Specific styling for the app title if default h1 is too much */
+    .app-title { /* You would add class="app-title" to st.title if using custom class */
+        /* color: #4CAF50; */ /* Example custom title color */
+    }
+
+    .pokemon-card {
+        background-color: #1e1e1e;
+        border: 1px solid #555; /* Slightly lighter border */
+        padding: 20px; /* Increased padding for more space */
+        border-radius: 12px; /* Slightly more rounded corners */
+        margin-bottom: 20px;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+        transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        text-align: center; /* Center h4 and tag blocks container */
+        display: flex; /* Use flex to manage height if needed, or for vertical centering */
+        flex-direction: column; /* Stack h4 and tag blocks vertically */
+        justify-content: space-between; /* Pushes content apart if card height is fixed/min-height */
+        height: 100%; /* Make cards in a row take up the same height */
+    }
+
+    .pokemon-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px 0 rgba(0,0,0,0.4);
+    }
+
+    .pokemon-card h4 {
+        margin-top: 0; /* Remove default top margin from h4 if it's the first child */
+        margin-bottom: 15px; /* More space below name */
+        font-size: 1.3em; /* Slightly larger name */
+        color: #EAEAEA;
+    }
+    
+    .tag-container { /* Container for individual tag blocks */
+        /* No specific styles needed now unless further refinement */
+    }
+
+    .tag-block { /* The div that holds Area, Method, Level tags */
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        gap: 6px;
+        margin-bottom: 8px; /* Space between encounter lines */
+        width: 100%;
+    }
+
+    .tag { /* Individual tags (Area, Method, Level) */
+        display: inline-block;
+        color: #fff;
+        padding: 5px 12px; /* Increased padding in tags */
+        border-radius: 15px; /* More rounded tags */
+        margin: 2px; /* Reduced margin as gap in .tag-block handles spacing */
+        font-size: 0.8em; /* Slightly smaller tag font for more content */
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.5); /* Text shadow for pop */
+        white-space: nowrap; /* Prevent tags from breaking lines */
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+
 # Load datasets
 @st.cache_data
 def load_data():
     pokemon_df = pd.read_csv("Emerald Imperium Pokemon Data - Pokemon data.csv")
     location_df = pd.read_csv("Emerald Imperium Pokemon Data - Location data.csv")
 
-    # Add Generation column
     def determine_generation(num):
         if num <= 151: return 1
         elif num <= 251: return 2
@@ -20,16 +100,12 @@ def load_data():
         elif num <= 809: return 7
         elif num <= 898: return 8
         else: return 9
-
     pokemon_df["Generation"] = pokemon_df["Number"].apply(determine_generation)
     return pokemon_df, location_df
 
 pokemon_df, location_df = load_data()
-
-# Remove Mega Evolutions from results
 pokemon_df = pokemon_df[~pokemon_df["Form"].str.lower().str.contains("mega", na=False)]
 
-# Level Cap Data
 level_cap_data = {
     "No Cap": 101, "Pre Roxanne (Cap 15)": 15, "Pre May (Rustboro) (Cap 20)": 20,
     "Pre Brawley (Cap 25)": 25, "Pre Ocean Museum (Cap 30)": 30, "Pre May (Route 110) (Cap 32)": 32,
@@ -41,9 +117,9 @@ level_cap_data = {
 }
 
 st.title("Emerald Imperium Pokémon Locations")
+# st.markdown("<br>", unsafe_allow_html=True) # Optional: More space below title
 
 col1, col2 = st.columns(2)
-
 with col1:
     st.subheader("Pokémon Filters")
     selected_pokemon = st.selectbox("Pokémon", ["All"] + sorted(pokemon_df["Name"].unique().tolist()))
@@ -58,6 +134,9 @@ with col2:
     min_level, max_level = st.slider("Level Range", 1, 100, (1, 100))
     selected_level_cap_key = st.selectbox("Level Cap", list(level_cap_data.keys()))
     current_level_cap = level_cap_data[selected_level_cap_key]
+
+# --- Divider between filters and results ---
+st.divider()
 
 filtered_locations = location_df.copy()
 if selected_location != "All":
@@ -90,18 +169,21 @@ st.subheader("Filtered Pokémon and Encounter Locations")
 
 method_colors = {
     "Grass": "#4CAF50", "Old Rod": "#FFD700", "Good Rod": "#20B2AA", "Super Rod": "#9370DB",
-    "Surfing": "#1E90FF", "Cave": "#D2B48C", "Dungeon": "#B22222"
-    # Add more methods and their colors if needed
+    "Surfing": "#1E90FF", "Cave": "#D2B48C", "Dungeon": "#B22222", "Gift": "#FF69B4", "Egg": "#FFC0CB"
+    # Added Gift and Egg examples, adjust as needed
 }
 
-def render_tag(content, color):
-    return f"<span style='display:inline-block; background:{color}; color:#fff; padding:3px 10px; border-radius:10px; margin:4px; font-size:0.85em;'>{content}</span>"
+# --- Updated Tag Rendering Function ---
+def render_tag_html(content, color):
+    # Uses the 'tag' class from the global CSS
+    return f"<span class='tag' style='background:{color};'>{content}</span>"
 
-def render_gray_tag(content):
-    return render_tag(content, '#555')
+def render_gray_tag_html(content):
+    return render_tag_html(content, '#555') # Using a specific gray for these tags
 
 if filtered_pokemon.empty:
-    st.write("No Pokémon match your filters.")
+    # --- Updated No Results Message ---
+    st.info("No Pokémon match your current filter criteria. Try adjusting your selections!")
 else:
     num_columns = 3
     chunks = [filtered_pokemon.iloc[i:i + num_columns] for i in range(0, len(filtered_pokemon), num_columns)]
@@ -114,25 +196,23 @@ else:
                     filtered_locations["Pokémon"].str.strip().str.lower() == row["Name"].strip().lower()
                 ]
 
-                tag_blocks = []
+                tag_html_blocks = []
                 for _, loc in locs.iterrows():
-                    area_tag = render_gray_tag(loc['Area'])
-                    method_tag = render_tag(loc['Method'], method_colors.get(loc['Method'], '#888'))
-                    level_tag = render_gray_tag(f"Level {int(loc['Min Level'])}–{int(loc['Max Level'])}")
+                    area_tag = render_gray_tag_html(loc['Area'])
+                    method_tag = render_tag_html(loc['Method'], method_colors.get(loc['Method'], '#888')) # Default color if method not in dict
+                    level_tag = render_gray_tag_html(f"Lvl {int(loc['Min Level'])}–{int(loc['Max Level'])}") # Shortened "Level"
                     
-                    block = (
-                        f"<div style='display:flex; justify-content:space-between; "
-                        f"flex-wrap:nowrap; gap:6px; margin-bottom:6px; width:100%;'>"
-                        f"{area_tag}{method_tag}{level_tag}"
-                        f"</div>"
-                    )
-                    tag_blocks.append(block)
+                    # Uses the 'tag-block' class from global CSS for alignment
+                    block = f"<div class='tag-block'>{area_tag}{method_tag}{level_tag}</div>"
+                    tag_html_blocks.append(block)
 
-                # Pokémon name (h4) is still centered. Remove text-align:center if you want it left-aligned.
+                # --- Updated Bubble Content to use CSS classes ---
                 bubble_content = f"""
-                <div style='background-color:#1e1e1e; border:1px solid #444; padding:15px; border-radius:10px; margin-bottom:20px;'>
-                    <h4 style='margin-bottom:10px; text-align:center;'>{row['Name']}</h4>
-                    {''.join(tag_blocks)}
+                <div class='pokemon-card'>
+                    <h4>{row['Name']}</h4>
+                    <div class='tag-container'>
+                        {''.join(tag_html_blocks)}
+                    </div>
                 </div>
                 """
                 st.markdown(bubble_content, unsafe_allow_html=True)
